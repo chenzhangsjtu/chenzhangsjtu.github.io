@@ -24,10 +24,10 @@ Selected Publications
 
 Awards and Honors
 ======
-[2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂)
-[2024] Stanford and Elsevier Top-2% Most Cited Scholars
-[2021~2024] AI-2000 World's Most Influential Scholars
-[2023] MICRO Top Picks (HM)
-[2022] ACM ChinaSys Rising Star
-[2019] Donald O. Pederson Best Paper
-[2015] FPGA Best Paper Nomination
+- [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂)
+- [2024] Stanford and Elsevier Top-2% Most Cited Scholars
+- [2021~2024] AI-2000 World's Most Influential Scholars
+- [2023] MICRO Top Picks (HM)
+- [2022] ACM ChinaSys Rising Star
+- [2019] Donald O. Pederson Best Paper
+- [2015] FPGA Best Paper Nomination
