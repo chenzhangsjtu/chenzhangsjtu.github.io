@@ -38,7 +38,7 @@ author:
   dplp             : "https://dblp.uni-trier.de/pid/94/4084-1.html"
   orcid            : "https://orcid.org/0000-0003-2762-2726"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
