@@ -15,10 +15,19 @@ redirect_from:
 
 > I joined the Department of Micro-Nano Electronics at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University as a tenure-track Assistant Professor in May 2023. Prior to this, I obtained my Ph.D. degree from Peking University in 2017, specializing in research on artificial intelligence accelerators. During my doctoral studies, I conducted academic visits at the University of California, Los Angeles (UCLA) in 2015-2016 [Alumni page](https://vast.cs.ucla.edu/people/alumni/chen-zhang). After graduation, I joined Microsoft Research, where I worked on cloud-edge-end artificial intelligence systems and heterogeneous acceleration. I progressed to the position of Senior Researcher. In early 2021, I joined Alibaba T-head Semiconductor Co., Ltd., leading the parallel computing team as a Core Chip Architect, responsible for artificial intelligence algorithm acceleration and cluster chip interconnect-related functional design.
 
+Selected Publications
+======
+- Dual-side sparse tensor core, ISCA, 2021
+- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, T-CAD, 2018
+- Optimizing FPGA-based accelerator design for deep convolutional neural networks, FPGA, 2015
+
 
 Awards and Honors
 ======
 [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂)
 [2024] Stanford and Elsevier Top-2% Most Cited Scholars
 [2021~2024] AI-2000 World's Most Influential Scholars
+[2023] MICRO Top Picks (HM)
 [2022] ACM ChinaSys Rising Star
+[2019] Donald O. Pederson Best Paper
+[2015] FPGA Best Paper Nomination
