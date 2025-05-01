@@ -22,7 +22,7 @@ repository               : "https://chenzhangsjtu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-chen2.png"
   name             : "Chen Zhang / 张宸"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, 博导"
@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : "https://dblp.uni-trier.de/pid/94/4084-1.html"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=s9LcP1AAAAAJ"
+  dplp      : "https://dblp.uni-trier.de/pid/94/4084-1.html"
+  orcid            : "https://orcid.org/0000-0003-2762-2726"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
