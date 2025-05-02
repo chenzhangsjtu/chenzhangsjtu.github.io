@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "Homepage"
-title                    : "Chen Zhang / Assistant Professor"
+title                    : "Chen Zhang / 张宸"
 title_separator          : "-"
 name                     : &name "Chen Zhang"
 description              : &description "personal description"
