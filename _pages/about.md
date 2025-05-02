@@ -16,7 +16,7 @@ redirect_from:
 
 > I joined the Department of Micro-Nano Electronics at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University as a tenure-track Assistant Professor in May 2023. Prior to this, I obtained my Ph.D. degree from Peking University in 2017, advised by [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm), specializing in research on artificial intelligence accelerators. During my doctoral studies, I conducted academic visits at the University of California, Los Angeles (UCLA) in 2015-2016 [Alumni page](https://vast.cs.ucla.edu/people/alumni/chen-zhang). After graduation, I joined Microsoft Research, where I worked on cloud-edge-end artificial intelligence systems and heterogeneous acceleration. I progressed to the position of Senior Researcher. In early 2021, I joined Alibaba T-head Semiconductor Co., Ltd., leading the parallel computing team as a Core Chip Architect, responsible for artificial intelligence algorithm acceleration and cluster chip interconnect-related functional design.
 
-Selected Publications
+Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
 ======
 - H^2-LLM: Hardware-Dataflow Co-Exploration forHeterogeneousHybrid-Bonding-based Low-BatchLLM Inference, ISCA, 2025
 - SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU, DAC, 2025
