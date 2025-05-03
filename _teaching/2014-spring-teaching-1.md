@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 1"
+title: "电子技术与系统"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/ElectronicTechAndSys
+venue: "Shanghai Jiao Tong University, Department"
+date: 2024-03-17
+location: "Shanghai, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+通过本课程的学习，学生将能够: 掌握人工智能计算基础 理解人工智能的基本计算原理，掌握支撑人工智能应用的底层计算技术。
+- 熟悉模拟电路基础：掌握模拟电路设计与计算方法，理解其在人工智能硬件中的应用场景与作用。
+- 掌握数字电路基础：系统学习数字电路的设计与计算方法，理解其在人工智能硬件中的应用场景与作用。 
+- 人工智能软硬件联合设计方法：理解软硬件协同设计的核心思想，掌握人工智能算法、系统架构、信息编码技术与底层硬件计算之间的相互关系。
 
-Heading 1
-======
+> 此课程是人工智能专业入门课程，为后续人工智能电路与系统相关课程的学习打下坚实的基础。主要教学内容围绕着人工智能的基本计算原理，讲述支撑性的底层计算技术与硬件设计方法，包括数字电路设计与计算方法、模拟电路设计与计算方法、低精度量化与信息编码、软硬件联合设计等。通过本课程的学习，能够完整掌握硬件计算技术以及其对人工智能芯片的支撑作用，充分了解人工智能算法、系统架构与底层硬件计算之间的关系。
 
-Heading 2
-======
+> This course is an introductory course for the Artificial Intelligence major, designed to establish a solid foundation for subsequent courses on AI circuits and systems. The primary content covers fundamental computational principles in AI, addressing core underlying computing technologies and hardware design methods. Topics include digital circuit design and computation methods, analog circuit design and computation methods, low-precision quantization and information encoding, and hardware-software co-design. Through this course, students will gain a comprehensive understanding of hardware computing technologies and their supporting role in AI chip development, as well as the interrelationship between AI algorithms, system architecture, and underlying hardware computation.
 
-Heading 3
+
+
+2024-2025 Spring
 ======
+课程代码：EST1601
+上课时间：周一，3-4节；周三（仅单周），1-2节
+教室位置：上院105
+课程网站：[Link](https://oc.sjtu.edu.cn/courses/75896)
+
+
+
+
