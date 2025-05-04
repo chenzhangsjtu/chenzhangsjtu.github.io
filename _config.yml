@@ -32,21 +32,21 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "https://orcid.org/0000-0003-2762-2726"
+  arxiv            : "https://arxiv.org/a/zhang_c_13.html"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=s9LcP1AAAAAJ"
-  dplp             : "https://dblp.uni-trier.de/pid/94/4084-1.html"
+  # dplp             : "https://dblp.uni-trier.de/pid/94/4084-1.html"
   orcid            : "https://orcid.org/0000-0003-2762-2726"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Chen-Zhang-23"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
