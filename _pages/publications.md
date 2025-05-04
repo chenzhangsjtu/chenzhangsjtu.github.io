@@ -134,7 +134,7 @@ author_profile: true
 ### C4. Optimizing FPGA-based accelerator design for deep convolutional neural networks
 * *Chen Zhang*, Peng Li, Guangyu Sun, Yijin Guan, Bingjun Xiao, Jason Cong, "
 * Proceedings of the 2015 ACM/SIGDA international symposium on field-programmable gate arrays (FPGA 2015)【[PDF](https://chenzhangsjtu.github.io//files/2015-FPGA.pdf)】
-* Citation: 2218 (As of 2023, **Top-1** citation in 29 year FPGA conference history)
+* Citation: 2218 (**Top-1** citation in FPGA conference history since 1990s)
 * Award: **FPGA-2015 Best Paper Nomination**
 * Keyword: Convolutional Neural Network, FPGA, Acceleration, Roofline Model 
 
@@ -149,6 +149,17 @@ author_profile: true
 ### C1. Automatic multidimensional memory partitioning for FPGA-based accelerators
 * Yuxin Wang, Peng Li, Peng Zhang, *Chen Zhang*, Jason Cong
 * Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays (FPGA 2013)
+
+## Patent
+
+### Bin Lin,Tao Peng,\textbf{Chen Zhang},Minmin Sun,Lanbo Li,Xiafei Qiu,Shen Li,Yong Li,Wei Lin,Task handling methods as well as automated question answering methods, January 02, 2025, PCT/IB2025/050023
+### 林彬,彭陶,\textbf{张宸},孙敏敏,李澜博,邱侠斐,李深,李永,林伟,任务处理方法以及自动问答方法, January 03, 2024, 202410010610.3
+### Haoran Li, Fei Sun, Yuan Gao, Guyue Huang, Ruiguang Zhong, \textbf{Chen Zhang}; GPU and Related Methods, November 24, 2023, China, CN117114960A
+### Yuan Gao, Fei Sun, Haoran Li, Guyue Huang, \textbf{Chen Zhang}, Ruiguang Zhong; Thread Warp Execution Method and Related GPU, December 15, 2023, China, CN117237178A
+### Haoran Li; Fei Sun; Yuan Gao; Guyue Huang; Ruiguang Zhong; \textbf{Chen Zhang}; GPU AND METHOD OF THE SAME, 2023-12-07, U.S.，US-20230367741-A1 
+### Yuan Gao; Fei Sun; Haoran Li; Guyue Huang; \textbf{Chen Zhang}; Ruiguang Zhong; WARP EXECUTION METHOD AND ASSOCIATED GPU, 2023-12-07，U.S., US-20230394617-A1 
+### \textbf{Chen Zhang}; Yunxin Liu; NEURAL NETWORK COMPRESSION BASED ON BANK-BALANCED SPARSITY, 2019-11-15, U.S., US20210150362A1
+### \textbf{Chen Zhang}, Yunxin Liu; Sparse Convolutional Neural Network, June 18, 2019, China, CN112101511A
 
 <!-- the following thing is used to link the markdown file in /publications/ folder
 
