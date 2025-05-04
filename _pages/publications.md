@@ -7,15 +7,58 @@ author_profile: true
 
 ## Journal Paper
 
+### T5. Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models
+* Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, *Chen Zhang*, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang, Guangyu Sun
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025)
+
+### T4. DSTC: Dual-Side Sparsity Tensor Core for DNNs Acceleration on Modern GPU Architectures
+*  *Chen Zhang*, Yang Wang, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng, Guangyu Sun, Zhigang Ji, Runsheng Wang, Yuan Xie, Ru Huang
+* IEEE Transactions on Computers (TC 2025) 【[PDF]()】
+* Keyword: CNN, LSTM, LLM, GPU, Sparse Computing
+
+### T3. Fine-Grained Structured Sparse Computing for FPGA-Based AI Inference
+*  *Chen Zhang*, Shijie Cao, Guohao Dai, Chenbo Geng, Zhuliang Yao, Wencong Xiao, Yunxin Liu, Ming Wu, Lintao Zhang, Guangyu Sun, Zhigang Ji, Runsheng Wang, Ru Huang
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025) 【[PDF]()】
+* Keyword: CNN, LSTM, LLM, FPGA, Fine-Grained Structured Sparse Computing
+
+### T2. TSCompiler: Efficient Compilation Framework for Dynamic-shape Models
+* Xiang Luo, *Chen Zhang*, Chenbo Geng, Yanzhi Yi, Jiahui Hu, Renwei Zhang, Zhen Zhang, Gianpietro Consolaro, Fan Yang, Tun Lu, Ning Gu
+* SCIENCE CHINA Information Sciences (SCIS 2024)
+
 ### T1. Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks
 *  *Chen Zhang*, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2018) 【[PDF](https://chenzhangsjtu.github.io//files/TCAD-2018.pdf)】
-* Citation: 600
+* Citation: 700
 * Award: **2017~2019 Donald O. Pederson Best Paper Award**
 * Keyword: Convolutional Neural Network, FPGA, Design Automation, Caffe, SDAccel
 
 
 ## Conference Paper
+
+
+### C26. H^2-LLM: Hardware-Dataflow Co-Exploration forHeterogeneousHybrid-Bonding-based Low-BatchLLM Inference
+* Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, Chen Zhang, Guangyu Sun
+* Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)
+
+### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
+* Yuanzheng Yao, *Chen Zhang*, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and Zhuoran Song
+* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2025)
+
+### C24. Oltron: Algorithm-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation
+* Chenhao Xue, Chen Zhang, Xun Jiang, Zhutianya Gao, Yibo Lin, Guangyu Sun
+* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2024)
+
+### C23. Amanda: Unified instrumentation framework for deep neural networks
+* Yue Guan, Yuxian Qiu, Jingwen Leng, Fan Yang, Shuo Yu, Yunxin Liu, Yu Feng, Yuhao Zhu, Lidong Zhou, Yun Liang, *Chen Zhang*, Chao Li, Minyi Guo
+* Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024)
+
+### C22. Cambricon-r: A fully fused accelerator for real-time learning of neural scene representation
+* Xinkai Song, Yuanbo Wen, Xing Hu, Tianbo Liu, Haoxuan Zhou, Husheng Han, Tian Zhi, Zidong Du, Wei Li, Rui Zhang, *Chen Zhang*, Lin Gao, Qi Guo, Tianshi Chen
+* Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2023)
+
+### C21. RM-STC: Row-merge dataflow inspired GPU sparse tensor core for energy-efficient sparse acceleration
+* Guyue Huang, Zhengyang Wang, Po-An Tsai, *Chen Zhang*, Yufei Ding, Yuan Xie
+* Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2023)
 
 ### C20. OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
 * Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, *Chen Zhang*, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
