@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "张宸, 上海交通大学 ｜ Chen Zhang, Shanghai Jiao Tong University"
 author_profile: true
 redirect_from: 
   - /about/
