@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张宸 (Chen Zhang) | 上海交通大学(SJTU)"
+title: "张宸 (Chen Zhang), 上海交通大学(SJTU)"
 author_profile: true
 redirect_from: 
   - /about/
