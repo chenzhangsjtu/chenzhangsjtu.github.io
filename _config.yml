@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Homepage"
-title                    : "Chen Zhang / 张宸"
+site_theme               : "张宸, 上海交通大学 ｜ Chen Zhang, Shanghai Jiao Tong University"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Chen Zhang"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Chen Zhang / 张宸"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, 博导"
-  location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  location         : "综合实验楼，RM 303"
+  employer         : "上海交通大学（SJTU）"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenzhang [dt] sjtu [at] sjtu [dt] edu [dt] cn" 
 
   # Academic websites
   academia         : "https://dblp.uni-trier.de/pid/94/4084-1.html"
