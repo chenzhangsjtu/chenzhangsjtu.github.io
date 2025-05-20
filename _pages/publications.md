@@ -13,17 +13,17 @@ author_profile: true
 
 ### T4. DSTC: Dual-Side Sparsity Tensor Core for DNNs Acceleration on Modern GPU Architectures
 *  *Chen Zhang*, Yang Wang, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng, Guangyu Sun, Zhigang Ji, Runsheng Wang, Yuan Xie, Ru Huang
-* IEEE Transactions on Computers (TC 2025) 【[PDF]()】
+* IEEE Transactions on Computers (TC 2025) 【[PDF](https://chenzhangsjtu.github.io//files/2025-TC-DSTC.pdf)】
 * Keyword: CNN, LSTM, LLM, GPU, Sparse Computing
 
 ### T3. Fine-Grained Structured Sparse Computing for FPGA-Based AI Inference
 *  *Chen Zhang*, Shijie Cao, Guohao Dai, Chenbo Geng, Zhuliang Yao, Wencong Xiao, Yunxin Liu, Ming Wu, Lintao Zhang, Guangyu Sun, Zhigang Ji, Runsheng Wang, Ru Huang
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025) 【[PDF]()】
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025) 【[PDF](https://chenzhangsjtu.github.io//files/2025-TCAD-FSS.pdf)】
 * Keyword: CNN, LSTM, LLM, FPGA, Fine-Grained Structured Sparse Computing
 
 ### T2. TSCompiler: Efficient Compilation Framework for Dynamic-shape Models
 * Xiang Luo, *Chen Zhang*, Chenbo Geng, Yanzhi Yi, Jiahui Hu, Renwei Zhang, Zhen Zhang, Gianpietro Consolaro, Fan Yang, Tun Lu, Ning Gu
-* SCIENCE CHINA Information Sciences (SCIS 2024)
+* SCIENCE CHINA Information Sciences (SCIS 2024)【[PDF](https://chenzhangsjtu.github.io//files/2024-SCIS.pdf)】
 
 ### T1. Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks
 *  *Chen Zhang*, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong
@@ -38,15 +38,15 @@ author_profile: true
 
 ### C26. H^2-LLM: Hardware-Dataflow Co-Exploration forHeterogeneousHybrid-Bonding-based Low-BatchLLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, Chen Zhang, Guangyu Sun
-* Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)
+* Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
 
 ### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
 * Yuanzheng Yao, *Chen Zhang*, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and Zhuoran Song
-* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2025)
+* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-DAC_SynGPU-3.pdf)】
 
 ### C24. Oltron: Algorithm-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation
 * Chenhao Xue, Chen Zhang, Xun Jiang, Zhutianya Gao, Yibo Lin, Guangyu Sun
-* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2024)
+* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2024)【[PDF](https://chenzhangsjtu.github.io//files/2024-DAC.pdf)】
 
 ### C23. Amanda: Unified instrumentation framework for deep neural networks
 * Yue Guan, Yuxian Qiu, Jingwen Leng, Fan Yang, Shuo Yu, Yunxin Liu, Yu Feng, Yuhao Zhu, Lidong Zhou, Yun Liang, *Chen Zhang*, Chao Li, Minyi Guo
@@ -101,7 +101,7 @@ author_profile: true
 
 ### C11. Efficient and effective sparse LSTM on FPGA with bank-balanced sparsity
 * Shijie Cao, *Chen Zhang*, Zhuliang Yao, Wencong Xiao, Lanshun Nie, Dechen Zhan, Yunxin Liu, Ming Wu, Lintao Zhang
-* Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2019) 【[PDF](https://chenzhangsjtu.github.io//files/2019-FPGA.pdf)】
+* Proceedings of the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2019) 【[PDF](https://chenzhangsjtu.github.io//files/2019-FPGA.pdf)】【[Web](https://www.jiqizhixin.com/articles/2019-06-25-18)】
 * Industrial Impact: **Used by NVIDIA Sparse Tensor Core (Ampere and Hopper Architecture)**
 * Keyword: Sparse Neural Network, Acceleration, FPGA
 
@@ -152,14 +152,14 @@ author_profile: true
 
 ## Patent
 
-### Bin Lin,Tao Peng,\textbf{Chen Zhang},Minmin Sun,Lanbo Li,Xiafei Qiu,Shen Li,Yong Li,Wei Lin,Task handling methods as well as automated question answering methods, January 02, 2025, PCT/IB2025/050023
-### 林彬,彭陶,\textbf{张宸},孙敏敏,李澜博,邱侠斐,李深,李永,林伟,任务处理方法以及自动问答方法, January 03, 2024, 202410010610.3
-### Haoran Li, Fei Sun, Yuan Gao, Guyue Huang, Ruiguang Zhong, \textbf{Chen Zhang}; GPU and Related Methods, November 24, 2023, China, CN117114960A
-### Yuan Gao, Fei Sun, Haoran Li, Guyue Huang, \textbf{Chen Zhang}, Ruiguang Zhong; Thread Warp Execution Method and Related GPU, December 15, 2023, China, CN117237178A
-### Haoran Li; Fei Sun; Yuan Gao; Guyue Huang; Ruiguang Zhong; \textbf{Chen Zhang}; GPU AND METHOD OF THE SAME, 2023-12-07, U.S.，US-20230367741-A1 
-### Yuan Gao; Fei Sun; Haoran Li; Guyue Huang; \textbf{Chen Zhang}; Ruiguang Zhong; WARP EXECUTION METHOD AND ASSOCIATED GPU, 2023-12-07，U.S., US-20230394617-A1 
-### \textbf{Chen Zhang}; Yunxin Liu; NEURAL NETWORK COMPRESSION BASED ON BANK-BALANCED SPARSITY, 2019-11-15, U.S., US20210150362A1
-### \textbf{Chen Zhang}, Yunxin Liu; Sparse Convolutional Neural Network, June 18, 2019, China, CN112101511A
+### Bin Lin,Tao Peng,**Chen Zhang**,Minmin Sun,Lanbo Li,Xiafei Qiu,Shen Li,Yong Li,Wei Lin,Task handling methods as well as automated question answering methods, January 02, 2025, PCT/IB2025/050023
+### 林彬,彭陶,**张宸**,孙敏敏,李澜博,邱侠斐,李深,李永,林伟,任务处理方法以及自动问答方法, January 03, 2024, 202410010610.3
+### Haoran Li, Fei Sun, Yuan Gao, Guyue Huang, Ruiguang Zhong, **Chen Zhang**; GPU and Related Methods, November 24, 2023, China, CN117114960A
+### Yuan Gao, Fei Sun, Haoran Li, Guyue Huang, **Chen Zhang**, Ruiguang Zhong; Thread Warp Execution Method and Related GPU, December 15, 2023, China, CN117237178A
+### Haoran Li; Fei Sun; Yuan Gao; Guyue Huang; Ruiguang Zhong; **Chen Zhang**; GPU AND METHOD OF THE SAME, 2023-12-07, U.S.，US-20230367741-A1 
+### Yuan Gao; Fei Sun; Haoran Li; Guyue Huang; **Chen Zhang**; Ruiguang Zhong; WARP EXECUTION METHOD AND ASSOCIATED GPU, 2023-12-07，U.S., US-20230394617-A1 
+### **Chen Zhang**; Yunxin Liu; NEURAL NETWORK COMPRESSION BASED ON BANK-BALANCED SPARSITY, 2019-11-15, U.S., US20210150362A1
+### **Chen Zhang**, Yunxin Liu; Sparse Convolutional Neural Network, June 18, 2019, China, CN112101511A
 
 <!-- the following thing is used to link the markdown file in /publications/ folder
 
