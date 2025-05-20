@@ -35,11 +35,11 @@ Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications
 
 Awards and Honors
 ======
-- [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂)
-- [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)
-- [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)
+- [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂) 【[Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】
+- [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
+- [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[Web](https://www.aminer.cn/ai2000/ct)】
 - [2023] MICRO Top Picks (Honorable Mention)
-- [2022] ACM ChinaSys Rising Star
-- [2019] Donald O. Pederson Best Paper
+- [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
+- [2019] Donald O. Pederson Best Paper 【[IEEE Web](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)】【[UCLA Web](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)】【[PKU Web](https://cs.pku.edu.cn/info/1263/2440.htm)】
 - [2019] Microsoft Research Special Stock Award
-- [2015] FPGA Best Paper Nomination
+- [2015] FPGA Best Paper Nomination 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
