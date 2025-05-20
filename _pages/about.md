@@ -16,6 +16,11 @@ redirect_from:
 
 > I joined the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in May 2023 as a Tenure-Track Assistant Professor and Ph.D. advisor. I am also a recipient of the Shanghai Overseas High-Level Talent Program. My primary research interests lie in AI processor architecture and chip systems. I received my Ph.D. from Peking University in 2017, advised by [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). During my Ph.D. studies, I was a visiting scholar at the University of California, Los Angeles (UCLA) from 2015 to 2016 (link). After graduation, I worked at Microsoft Research as a Senior Researcher and at Alibaba T-Head Semiconductor as an Architect, where I led and participated in several high-impact AI processor and system design projects. I have published over 30 papers in leading international conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, with 16 papers in CCF-A venues. I hold 8 invention patents in China and the U.S. According to Google Scholar, my first-author or corresponding-author publications have received over 4,100 citations in total, including more than 3,400 citations in the past five years.
 
+News
+======
+- Our work "DATIS: DRAM Architecture and Technology Integrated Simulation" published on ISEDA-2025 has win **Best Paper Award**!
+- Our work "Optimizing FPGA-based accelerator design for deep convolutional neural networks" has win *FPGA and Reconfigurable Computing Hall of Fame* (the first winner from mainland China)【[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)】【[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)】【[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
+
 Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
 ======
 - H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025
