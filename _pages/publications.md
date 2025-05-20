@@ -40,7 +40,7 @@ author_profile: true
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
 * Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
 
-### C27. DATIS: DRAM Architecture and Technology Integrated Simulation
+### C26. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
 * Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】
 * **Best Paper Award**
