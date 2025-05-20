@@ -18,8 +18,9 @@ redirect_from:
 
 News
 ======
-- [2025 Jan.] Our work "DATIS: DRAM Architecture and Technology Integrated Simulation" published on ISEDA-2025 has win **Best Paper Award**!
-- [2025 Mar.] Our work "Optimizing FPGA-based accelerator design for deep convolutional neural networks" has win **FPGA and Reconfigurable Computing Hall of Fame** (the *first winner* from Mainland China)【[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)】【[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)】【[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
+- [2025 May.] "DATIS: DRAM Architecture and Technology Integrated Simulation" published on ISEDA-2025 has win **Best Paper Award**!
+- [2025 Mar.] "Optimizing FPGA-based accelerator design for deep convolutional neural networks" has win **FPGA and Reconfigurable Computing Hall of Fame** (the *first winner* from Mainland China)【[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)】【[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)】【[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
+- [2019 Jan.] "Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks" published on T-CAD 2018 has win **Donald O. Pederson Best Paper**! (the *first winner* from Mainland China)
 
 Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
 ======
