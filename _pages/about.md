@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张宸|上海交通大学"
+title: "张宸\|上海交通大学"
 author_profile: true
 redirect_from: 
   - /about/
