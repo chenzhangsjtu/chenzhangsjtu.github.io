@@ -9,7 +9,7 @@ author_profile: true
 
 ### T5. Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models
 * Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, **Chen Zhang**, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang, Guangyu Sun
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025)
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-TCAD-Theseus.pdf)】
 
 ### T4. DSTC: Dual-Side Sparsity Tensor Core for DNNs Acceleration on Modern GPU Architectures
 *  **Chen Zhang**, Yang Wang, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng, Guangyu Sun, Zhigang Ji, Runsheng Wang, Yuan Xie, Ru Huang
