@@ -14,11 +14,13 @@ Conference Organizing Committee Member
 Conference Program Committee Member
 ======
 - Design Automation Conference (DAC), 2024
-- International Conference on Computer Aided Design (ICCAD), 2024, 2025
+- International Conference on Computer Aided Design (ICCAD), 2023, 2024
+- IPDPS RAW, 2024
 
 Academic Activities
 ======
 - Otc 2024, Advanced Chip Forum， HKUST (Guang Zhou)【[Link](https://mp.weixin.qq.com/s/BvpbjvrlK3eUeifYl0kXHg)】
-- Nov 2024, “至善芯语”集成电路系列讲座，东南大学【[Link](https://mp.weixin.qq.com/s/puMZL3L_FeGx7Z9ldKGlXQ)】
+- Aug 2024, “至善芯语”集成电路讲座，东南大学【[Link-1](https://mp.weixin.qq.com/s/tn1PzQCjj1PmFBYG01tg8Q)】【[Link-2](https://mp.weixin.qq.com/s/puMZL3L_FeGx7Z9ldKGlXQ)】
 - Jul 2024, 前Intel执行副总裁/前AMD高级副总裁Raja Koduri来访交流【[Link](https://mp.weixin.qq.com/s/nrZVAfx5kqi0I3G51jvFyg)】
+- Jul 2024, 集成电路先进技术暑期学校【[Link](https://mp.weixin.qq.com/s/6heCkJFCiT2AE1OiT9-PcQ)】
 - Mar 2024, CCF专委主任说【[Link](https://mp.weixin.qq.com/s/y4mhjL9ogJi7d_cZBKQZIw)】
