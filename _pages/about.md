@@ -35,6 +35,7 @@ Awards and Honors
 - [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂) 【[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
 - [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
+- [2024] FPGA会议历史高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】
 - [2023] MICRO Top Picks (Honorable Mention)
 - [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
 - [2019] Microsoft Special Stock Award（微软研究院院长特别奖）
