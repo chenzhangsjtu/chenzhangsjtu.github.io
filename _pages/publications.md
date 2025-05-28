@@ -42,7 +42,7 @@ author_profile: true
 
 ### C26. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
-* Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】
+* Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/ID198_ISEDA.pdf)】
 * **Best Paper Award**
 
 ### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
@@ -51,7 +51,8 @@ author_profile: true
 
 ### C24. Oltron: Algorithm-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation
 * Chenhao Xue, **Chen Zhang\***, Xun Jiang, Zhutianya Gao, Yibo Lin, Guangyu Sun\*
-* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2024)【[PDF](https://chenzhangsjtu.github.io//files/2024-DAC.pdf)】
+* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2024)【[PDF](https://chenzhangsjtu.github.io//files/2024-DAC.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/184DAC2024.pdf)】
+
 
 ### C23. Amanda: Unified instrumentation framework for deep neural networks
 * Yue Guan, Yuxian Qiu, Jingwen Leng, Fan Yang, Shuo Yu, Yunxin Liu, Yu Feng, Yuhao Zhu, Lidong Zhou, Yun Liang, **Chen Zhang**, Chao Li, Minyi Guo
