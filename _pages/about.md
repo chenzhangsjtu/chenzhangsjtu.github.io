@@ -16,7 +16,7 @@ redirect_from:
 News
 ======
 - [2025 May.] "DATIS: DRAM Architecture and Technology Integrated Simulation" published on ISEDA-2025 has win **Best Paper Award**!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
-- [2025 Mar.] "Optimizing FPGA-based accelerator design for deep convolutional neural networks" has win **FPGA and Reconfigurable Computing Hall of Fame**！ (the *first winner* from Mainland China)【[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)】【[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)】【[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
+- [2025 Mar.] "Optimizing FPGA-based accelerator design for deep convolutional neural networks" has win **FPGA and Reconfigurable Computing Hall of Fame**！ (the *first winner* from Mainland China)【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)】【[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)】【[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)】【[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
 - [2022 Oct.] I am honored with ChinaSys Rising Star Award. 【[ChinaSys Web](https://chinasys.org/doku.php?id=awards)】
 - [2019 Jan.] "Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks" published on T-CAD 2018 has win **Donald O. Pederson Best Paper**! (the *first winner* from Mainland China)【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)】【[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
 
