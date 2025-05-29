@@ -35,8 +35,8 @@ Awards and Honors
 - [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂) 【[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)】
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
 - [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
-- [2024] FPGA会议历史高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】
-- [2023] MICRO Top Picks (Honorable Mention)
+- [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】
+- [2022] MICRO Top Picks Honorable Mention （MICRO 年度最佳论文优胜奖）
 - [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
 - [2019] Microsoft Special Stock Award（微软研究院院长特别奖）
 - [2019] Donald O. Pederson Best Paper 【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)】
