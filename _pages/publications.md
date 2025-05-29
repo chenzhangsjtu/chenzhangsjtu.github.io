@@ -29,7 +29,7 @@ author_profile: true
 *  **Chen Zhang**, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2018) 【[PDF](https://chenzhangsjtu.github.io//files/TCAD-2018.pdf)】
 * Citation: 700
-* Award: **2017~2019 Donald O. Pederson Best Paper Award**
+* Award: <code style="color : orangered">2017~2019 Donald O. Pederson Best Paper Award</code>
 * Keyword: Convolutional Neural Network, FPGA, Design Automation, Caffe, SDAccel
 
 
@@ -43,7 +43,7 @@ author_profile: true
 ### C26. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
 * Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/ID198_ISEDA.pdf)】
-* **Best Paper Award**
+* <code style="color : orangered">Best Paper Award</code>
 
 ### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
 * Yuanzheng Yao, **Chen Zhang\***, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and Zhuoran Song\*
@@ -77,7 +77,7 @@ author_profile: true
 ### C18. Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization
 * Cong Guo, **Chen Zhang**, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
 * Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://chenzhangsjtu.github.io//files/2022-MICRO.pdf)】
-* Award: **MICRO 2023 Top Picks Honorable Mention**
+* Award: <code style="color : orangered">MICRO 2023 Top Picks Honorable Mention</code>
 * Keywords: AI acceleration, Tensor Core, Quantization
 
 ### C17. SQuant: On-the-fly data-free quantization via diagonal hessian approximation
@@ -141,7 +141,7 @@ author_profile: true
 * **Chen Zhang**, Peng Li, Guangyu Sun, Yijin Guan, Bingjun Xiao, Jason Cong, "
 * Proceedings of the 2015 ACM/SIGDA international symposium on field-programmable gate arrays (FPGA 2015)【[PDF](https://chenzhangsjtu.github.io//files/2015-FPGA.pdf)】
 * Citation: 2218 (**Top-1** citation in FPGA conference history since 1990s)
-* Award: **FPGA-2015 Best Paper Nomination**
+* Award: <code style="color : orangered">FPGA-2015 Best Paper Nomination</code>
 * Keyword: Convolutional Neural Network, FPGA, Acceleration, Roofline Model 
 
 ### C3. An efficient design and implementation of LSM-tree based key-value store on open-channel SSD
