@@ -17,6 +17,12 @@ Conference Program Committee Member
 - International Conference on Computer Aided Design (ICCAD), 2023, 2024
 - IPDPS RAW, 2024
 
+Editors and Reviewers
+======
+- TECS (ACM Transactions on Embedded Computing Systems)   
+- TCC (IEEE Transactions on Cloud Computing)
+- T-CAD (IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems)
+
 Academic Party
 ======
 - CCF体系结构委员会
