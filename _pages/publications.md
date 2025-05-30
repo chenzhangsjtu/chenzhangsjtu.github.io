@@ -28,7 +28,6 @@ author_profile: true
 ### T1. Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks
 *  **Chen Zhang**, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2018) 【[PDF](https://chenzhangsjtu.github.io//files/TCAD-2018.pdf)】
-* Citation: 700
 * Award: <code style="color : orangered">2017~2019 Donald O. Pederson Best Paper Award</code>
 * Keyword: Convolutional Neural Network, FPGA, Design Automation, Caffe, SDAccel
 
@@ -43,7 +42,7 @@ author_profile: true
 ### C26. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
 * Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/ID198_ISEDA.pdf)】
-* <code style="color : orangered">Best Paper Award</code>
+* Award: <code style="color : orangered">Best Paper Award</code>
 
 ### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
 * Yuanzheng Yao, **Chen Zhang\***, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and Zhuoran Song\*
@@ -77,7 +76,7 @@ author_profile: true
 ### C18. Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization
 * Cong Guo, **Chen Zhang**, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
 * Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://chenzhangsjtu.github.io//files/2022-MICRO.pdf)】
-* Award: <code style="color : orangered">MICRO 2023 Top Picks Honorable Mention</code>
+* Award: <code style="color : orangered">MICRO 2022 Top Picks Honorable Mention</code>
 * Keywords: AI acceleration, Tensor Core, Quantization
 
 ### C17. SQuant: On-the-fly data-free quantization via diagonal hessian approximation
@@ -140,7 +139,7 @@ author_profile: true
 ### C4. Optimizing FPGA-based accelerator design for deep convolutional neural networks
 * **Chen Zhang**, Peng Li, Guangyu Sun, Yijin Guan, Bingjun Xiao, Jason Cong, "
 * Proceedings of the 2015 ACM/SIGDA international symposium on field-programmable gate arrays (FPGA 2015)【[PDF](https://chenzhangsjtu.github.io//files/2015-FPGA.pdf)】
-* Citation: 2218 (**Top-1** citation in FPGA conference history since 1990s)
+* Citation: 2218 (**Top-1** citation in FPGA conference history since 1992)
 * Award: <code style="color : orangered">FPGA-2015 Best Paper Nomination</code>
 * Keyword: Convolutional Neural Network, FPGA, Acceleration, Roofline Model 
 
@@ -158,14 +157,14 @@ author_profile: true
 
 ## Patent
 
-### Bin Lin,Tao Peng,**Chen Zhang**,Minmin Sun,Lanbo Li,Xiafei Qiu,Shen Li,Yong Li,Wei Lin,Task handling methods as well as automated question answering methods, January 02, 2025, PCT/IB2025/050023
-### 林彬,彭陶,**张宸**,孙敏敏,李澜博,邱侠斐,李深,李永,林伟,任务处理方法以及自动问答方法, January 03, 2024, 202410010610.3
-### Haoran Li, Fei Sun, Yuan Gao, Guyue Huang, Ruiguang Zhong, **Chen Zhang**; GPU and Related Methods, November 24, 2023, China, CN117114960A
-### Yuan Gao, Fei Sun, Haoran Li, Guyue Huang, **Chen Zhang**, Ruiguang Zhong; Thread Warp Execution Method and Related GPU, December 15, 2023, China, CN117237178A
-### Haoran Li; Fei Sun; Yuan Gao; Guyue Huang; Ruiguang Zhong; **Chen Zhang**; GPU AND METHOD OF THE SAME, 2023-12-07, U.S.，US-20230367741-A1 
-### Yuan Gao; Fei Sun; Haoran Li; Guyue Huang; **Chen Zhang**; Ruiguang Zhong; WARP EXECUTION METHOD AND ASSOCIATED GPU, 2023-12-07，U.S., US-20230394617-A1 
-### **Chen Zhang**; Yunxin Liu; NEURAL NETWORK COMPRESSION BASED ON BANK-BALANCED SPARSITY, 2019-11-15, U.S., US20210150362A1
-### **Chen Zhang**, Yunxin Liu; Sparse Convolutional Neural Network, June 18, 2019, China, CN112101511A
+- Bin Lin,Tao Peng,**Chen Zhang**,Minmin Sun,Lanbo Li,Xiafei Qiu,Shen Li,Yong Li,Wei Lin,Task handling methods as well as automated question answering methods, January 02, 2025, PCT/IB2025/050023
+- 林彬,彭陶,**张宸**,孙敏敏,李澜博,邱侠斐,李深,李永,林伟,任务处理方法以及自动问答方法, January 03, 2024, 202410010610.3
+- Haoran Li, Fei Sun, Yuan Gao, Guyue Huang, Ruiguang Zhong, **Chen Zhang**; GPU and Related Methods, November 24, 2023, China, CN117114960A
+- Yuan Gao, Fei Sun, Haoran Li, Guyue Huang, **Chen Zhang**, Ruiguang Zhong; Thread Warp Execution Method and Related GPU, December 15, 2023, China, CN117237178A
+- Haoran Li; Fei Sun; Yuan Gao; Guyue Huang; Ruiguang Zhong; **Chen Zhang**; GPU AND METHOD OF THE SAME, 2023-12-07, U.S.，US-20230367741-A1 
+- Yuan Gao; Fei Sun; Haoran Li; Guyue Huang; **Chen Zhang**; Ruiguang Zhong; WARP EXECUTION METHOD AND ASSOCIATED GPU, 2023-12-07，U.S., US-20230394617-A1 
+- **Chen Zhang**; Yunxin Liu; NEURAL NETWORK COMPRESSION BASED ON BANK-BALANCED SPARSITY, 2019-11-15, U.S., US20210150362A1
+- **Chen Zhang**, Yunxin Liu; Sparse Convolutional Neural Network, June 18, 2019, China, CN112101511A
 
 <!-- the following thing is used to link the markdown file in /publications/ folder
 
