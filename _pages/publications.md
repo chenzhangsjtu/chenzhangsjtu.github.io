@@ -35,7 +35,7 @@ author_profile: true
 ## Conference Paper
 
 
-### C27. H^2-LLM: Hardware-Dataflow Co-Exploration forHeterogeneousHybrid-Bonding-based Low-BatchLLM Inference
+### C27. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
 * Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
 
