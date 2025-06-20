@@ -7,11 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
 ## 个人简介
 我于2023年5月加入上海交通大学电子信息与电气工程学院，任长聘教轨助理教授，博士生导师，上海市海外高层次人才计划。主要研究方向是AI处理器架构和芯片系统。此前，于2017年从北京大学博士毕业，导师[丛京生教授](https://vast.cs.ucla.edu/people/faculty/jason-cong)和[孙广宇教授](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)。期间于2015-2016前往美国加州大学洛杉矶分校([UCLA]((https://vast.cs.ucla.edu/people/alumni/chen-zhang)))学术访问。毕业后（2017-2023），任职微软研究院（Senior Researcher）和阿里巴巴平头哥半导体（主架构师团队成员），主导了多个国内外重要AI处理器与系统的研发工作。在 ISCA、MICRO、FPGA、DAC、T-CAD等国际会议和期刊发表论文30余篇，最佳论文或提名5次（FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25），谷歌施引5200余次，单篇最高引2600余次。个人入选 FPGA and Reconfigurable Computing Hall of Fame (名人堂)，AI-2000世界最有影响力学者，Stanford and Elsevier 前 2% 高被引学者，ACM ChinaSys 新星奖等。
+-->
 
 ## Biography
-I joined the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in May 2023 as a Tenure-Track Assistant Professor and Ph.D. advisor. I am also a recipient of the Shanghai Overseas High-Level Talent Program. My primary research interests lie in AI processor architecture and chip systems. I received my Ph.D. from Peking University in 2017, advised by [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). During my Ph.D. studies, I was a visiting scholar at the University of California, Los Angeles (UCLA) from 2015 to 2016 (link). After graduation, I worked at Microsoft Research as a Senior Researcher and at Alibaba T-Head Semiconductor as an Architect, where I led and participated in several high-impact AI processor and system design projects. I have published over 30 papers in leading international conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, with 16 papers in CCF-A venues. I hold 8 invention patents in China and the U.S. According to Google Scholar, my first-author or corresponding-author publications have received over 4,100 citations in total, including more than 3,400 citations in the past five years.
+I joined the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in May 2023 as a Tenure-Track Assistant Professor and Ph.D. advisor. I am also a recipient of the Shanghai Overseas High-Level Talent Program. My research focuses on AI processor architectures and chip systems.
+
+I received my Ph.D. from Peking University in 2017, under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). From 2015 to 2016, I conducted academic research as a visiting scholar at the University of California, Los Angeles ([UCLA](https://vast.cs.ucla.edu/people/alumni/chen-zhang)). After graduation, I worked at Microsoft Research (as a Senior Researcher) and later at Alibaba T-Head Semiconductor (as a core member of the chief architect team), where I led the development of several high-impact AI processors and systems both in China and internationally.
+
+I have published over 30 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving five Best Paper Awards or nominations (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25). My work has been cited over 5,200 times on Google Scholar, with a single paper cited more than 2,600 times. I have been honored as a member of the **FPGA and Reconfigurable Computing Hall of Fame**, named an **AI 2000 Most Influential Scholar in the World**, recognized as a **Top 2% Most-Cited Researcher by Stanford and Elsevier**, and received the **ACM ChinaSys Rising Star Award**, among other accolades.
+
 
 ## News
 - [2025 May.] "DATIS: DRAM Architecture and Technology Integrated Simulation" published on ISEDA-2025 wins <code style="color : orangered">Best Paper Award</code>!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
