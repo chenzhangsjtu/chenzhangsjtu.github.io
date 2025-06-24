@@ -38,6 +38,7 @@ author_profile: true
 ### C27. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
 * Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
+* Award: <code style="color : orangered">Best Paper Award</code>
 
 ### C26. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
