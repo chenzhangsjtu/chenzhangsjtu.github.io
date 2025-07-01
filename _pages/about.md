@@ -37,7 +37,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 
 
 ## Awards and Honors
-- [2025] ISCA Best Paper Award【First Winner from China】
+- [2025] ISCA Best Paper Award
 - [2025] ISEDA Best Paper Award
 - [2025] FPGA and Reconfigurable Computing Hall of Fame (名人堂)【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】

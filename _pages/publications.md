@@ -35,15 +35,19 @@ author_profile: true
 ## Conference Paper
 
 
-### C27. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
+### C28. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
 * Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
 * Award: <code style="color : orangered">Best Paper Award</code>
 
-### C26. DATIS: DRAM Architecture and Technology Integrated Simulation
+### C27. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
 * Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/ID198_ISEDA.pdf)】
 * Award: <code style="color : orangered">Best Paper Award</code>
+
+### C26. Tb-STC: Transposable Block-wise N:M Structured Sparse Tensor Core
+* Jun Liu, Shulin Zeng, Junbo Zhao, Li Ding, Zeyu Wang, Jinhao Li, Zhenhua Zhu, Xuefei Ning, **Chen Zhang**, Yu Wang, Guohao Dai*
+* Proceedings of the 2025 IEEE International Symposium on High Performance Computer Architecture (HPCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-HPCA.pdf)】
 
 ### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
 * Yuanzheng Yao, **Chen Zhang\***, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and Zhuoran Song\*
