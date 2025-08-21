@@ -44,7 +44,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
 - [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
 <!-- - [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】-->
-- [2022] MICRO Top Picks Honorable Mention （MICRO 年度最佳论文优胜奖）
+- [2022] MICRO Top Picks Honorable Mention <!--（MICRO 年度最佳论文优胜奖）-->
 - [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
 - [2019] Microsoft Research SSA（微软研究院院长特别奖）
 - [2019] Donald O. Pederson Best Paper 【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
