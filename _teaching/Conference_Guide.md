@@ -4,7 +4,7 @@ collection: teaching
 type: "Suggestions for graduates"
 permalink: /teaching/Conference_Guide
 venue: "Shanghai Jiao Tong University, SIEE｜SIC"
-date: 2025-03-17
+date: 2023-10-04
 location: "Shanghai, China"
 ---
 
