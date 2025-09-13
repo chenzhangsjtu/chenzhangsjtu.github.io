@@ -1,7 +1,7 @@
 ---
 title: 'My Favorate Motto'
 date: 2018-08-01
-excerpt: "科研之余<br/><img src='/images/aluminum/bbq-2025-0913.JPG'>"
+excerpt: "科研之余<br/><img src='/images/aluminum/cover.PNG'>"
 permalink: /posts/2018/08/01/
 tags:
   - Personal
@@ -33,8 +33,9 @@ tags:
 
 ## 2024-11-27 聚餐 @ 德州奥斯汀
 德州烧烤！！！
-![Fast View](/images/aluminum/MICRO-2024-1.JPG)
 ![Fast View](/images/aluminum/MICRO-2024-2.JPG)
+![Fast View](/images/aluminum/MICRO-2024-1.JPG)
+
 
 ## 2024-09-11 迎新 @ 上海交大
 欢迎新同学！祝周卓珊、崔乐贝同学生日快乐！感谢大家的教师节祝福！
