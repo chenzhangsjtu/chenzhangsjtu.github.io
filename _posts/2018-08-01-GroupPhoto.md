@@ -42,6 +42,8 @@ tags:
 德州烧烤！！！
 ![Fast View](/images/aluminum/MICRO-2024-2.JPG)
 
+![Fast View](/images/aluminum/MICRO-2024-3.JPG)
+
 ![Fast View](/images/aluminum/MICRO-2024-1.JPG)
 
 
