@@ -1,5 +1,5 @@
 ---
-title: '科研之余'
+title: 'Play Hard, Work Smart'
 date: 2018-08-01
 excerpt: "炒菜别忘了加盐和味精，搞科研也别忘了玩～<br/><img src='/images/aluminum/cover.PNG'>"
 permalink: /posts/2018/08/01/
