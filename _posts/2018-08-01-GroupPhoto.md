@@ -9,7 +9,12 @@ tags:
 ---
 
 
-## 2025-09-26 CCFSys大会 @ 北京九华山庄
+
+## 2025-09-26 生日会 @ 上海交大
+祝卓珊生日快乐！
+![Fast View](/images/aluminum/2025BirthdayFall.PNG)
+
+## 2025-09-19 CCFSys大会 @ 北京九华山庄
 带同学们去北京参加CCFSys 2025大会。大家都有很多收获。
 ![Fast View](/images/aluminum/CCFSys2025.PNG)
 
