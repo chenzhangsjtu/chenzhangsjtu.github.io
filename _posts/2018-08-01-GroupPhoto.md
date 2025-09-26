@@ -37,17 +37,9 @@ tags:
 
 ## 2024-11-27 聚餐 @ 德州奥斯汀
 德州烧烤！！！
-![Fast View](/images/aluminum/MICRO-2024-2.JPG)
-
-![Fast View](/images/aluminum/MICRO-2024-3.JPG)
-
-![Fast View](/images/aluminum/MICRO-2024-1.JPG)
+![Fast View](/images/aluminum/MICRO-2024.PNG)
 
 
 ## 2024-09-11 迎新 @ 上海交大
-欢迎新同学！祝周卓珊、崔乐贝同学生日快乐！感谢大家的教师节祝福！
-![Fast View](/images/aluminum/BirthdayParty2024-Altumn1.jpg)
-
-![Fast View](/images/aluminum/Welcome-New-2024.jpg)
-
-![Fast View](/images/aluminum/TeacherDay2024.jpg)
+欢迎新同学！祝乐贝生日快乐！感谢大家的教师节祝福！
+![Fast View](/images/aluminum/Welcome-New-2024.PNG)
