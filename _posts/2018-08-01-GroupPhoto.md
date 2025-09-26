@@ -1,12 +1,17 @@
 ---
 title: 'Play Hard, Work Smart'
 date: 2018-08-01
-excerpt: "炒菜别忘了加盐和味精，搞科研也别忘了玩～<br/><img src='/images/aluminum/cover.PNG'>"
+excerpt: "组里活动流水账<br/><img src='/images/aluminum/cover.PNG'>"
 permalink: /posts/2018/08/01/
 tags:
   - Personal
   - News
 ---
+
+
+## 2025-09-26 CCFSys大会 @ 北京九华山庄
+带同学们去北京参加CCFSys 2025大会。大家都有很多收获。
+![Fast View](/images/aluminum/CCFSys2025.PNG)
 
 ## 2025-09-13 聚餐 @ 放鹤谷鲜花农场
 吃到了放鹤谷大油边！
