@@ -24,7 +24,7 @@ tags:
 
 ## 2025-09-10 教师节 @ 上海交大
 谢谢大家！希望在新的学期能和各位同学共同努力，多出成果，互相成就！
-![Fast View](/images/aluminum/TeacherDay2025.jpg)
+![Fast View](/images/aluminum/TeacherDay2025.PNG)
 
 ## 2025-02-27 春游 @ 上海植物园
 大家去春游！
