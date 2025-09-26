@@ -26,23 +26,10 @@ tags:
 谢谢大家！希望在新的学期能和各位同学共同努力，多出成果，互相成就！
 ![Fast View](/images/aluminum/TeacherDay2025.jpg)
 
-![Fast View](/images/aluminum/TeacherDay2025-2.jpg)
-
-![Fast View](/images/aluminum/TeacherDay2025-3.jpg)
-
 ## 2025-02-27 春游 @ 上海植物园
 大家去春游！
-![Fast View](/images/aluminum/Play-2025-03-1.jpg)
+![Fast View](/images/aluminum/Play-2025-03.PNG)
 
-![Fast View](/images/aluminum/Play-2025-03-2.jpg)
-
-![Fast View](/images/aluminum/Play-2025-03-3.jpg)
-
-![Fast View](/images/aluminum/Play-2025-03-4.jpg)
-
-![Fast View](/images/aluminum/Play-2025-03-5.jpg)
-
-![Fast View](/images/aluminum/Play-2025-03-6.jpg)
 
 ## 2025-02-27 聚餐 @ 加州蒙特雷
 十年未见的老朋友聚会！
