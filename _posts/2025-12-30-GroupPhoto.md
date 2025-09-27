@@ -1,8 +1,8 @@
 ---
-title: 'Play Hard, Work Smart'
-date: 2018-08-01
-excerpt: "组里活动流水账<br/><img src='/images/aluminum/cover.PNG'>"
-permalink: /posts/2018/08/01/
+title: '2023-2026年活动手帐'
+date: 2023-05-01
+excerpt: "Play Hard, Work Smart！活动流水账！<br/><img src='/images/aluminum/cover.PNG'>"
+permalink: /posts/2023/05/01/
 tags:
   - Personal
   - News
@@ -15,7 +15,7 @@ tags:
 ![Fast View](/images/aluminum/2025BirthdayFall.PNG)
 
 ## 2025-09-19 CCFSys大会 @ 北京九华山庄
-带同学们去北京参加CCFSys 2025大会。大家都有很多收获。
+去北京参加CCFSys 2025大会，大家都有很多收获！
 ![Fast View](/images/aluminum/CCFSys2025.PNG)
 
 ## 2025-09-13 聚餐 @ 放鹤谷鲜花农场
@@ -29,7 +29,6 @@ tags:
 ## 2025-02-27 春游 @ 上海植物园
 大家去春游！
 ![Fast View](/images/aluminum/Play-2025-03.PNG)
-
 
 ## 2025-02-27 聚餐 @ 加州蒙特雷
 十年未见的老朋友聚会！
