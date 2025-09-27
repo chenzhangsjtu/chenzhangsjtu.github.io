@@ -37,13 +37,11 @@ I have published over 30 papers in top-tier conferences and journals, including 
 
 
 ## Awards and Honors
-<!--
 - [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)
 - [2025] ICCAD Best Reviewer Award
 - [2025] CCF 自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
-- [2025] 教育部自然科学二等奖（排4）
+<!--- [2025] 教育部自然科学二等奖（排4）-->
 - [2025] IoTsys Young Scientist Award
--->
 - [2025] WAIC YunFan Award, Meritorious Winner【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
 - [2025] ISCA Best Paper Award (Co-corresponding Author)
 - [2025] ISEDA Best Paper Award (Co-corresponding Author)
@@ -51,8 +49,16 @@ I have published over 30 papers in top-tier conferences and journals, including 
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
 - [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
 <!-- - [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】-->
-- [2022] MICRO Top Picks Honorable Mention <!--（MICRO 年度最佳论文优胜奖）-->
+- [2022] MICRO Top Picks Honorable Mention (Second Author) <!--（MICRO 年度最佳论文优胜奖）-->
 - [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
 - [2019] Microsoft Research SSA（微软研究院院长特别奖）
 - [2019] Donald O. Pederson Best Paper (First Author)【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
 - [2015] FPGA Best Paper Nomination 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
+
+<!---
+## Projects
+- 华为：异构IP-DRAM计算访存架构仿真与内存排布优化，2025-2026（主持）
+- 国家自然科学基金青年项目：面向多模态模型的异质张量计算架构研究，2025-2029（主持）
+- 上海市自然科学基金青年项目：面向多模态人工智能的可重构计算架构研究，2025-2028（主持）
+- 华为：大模型计算网络系统“通算融合”关键技术研究，2024-2025（主持）
+-->
