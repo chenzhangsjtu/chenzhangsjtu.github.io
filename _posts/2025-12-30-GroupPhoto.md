@@ -2,7 +2,7 @@
 title: '2023-2026年活动手帐'
 date: 2023-05-01
 excerpt: "Play Hard, Work Smart！活动流水账！<br/><img src='/images/aluminum/cover.PNG'>"
-permalink: /posts/2023/05/01/
+permalink: /posts/2023-2026/
 tags:
   - Personal
   - News
@@ -26,6 +26,10 @@ tags:
 谢谢大家！希望在新的学期能和各位同学共同努力，多出成果，互相成就！
 ![Fast View](/images/aluminum/TeacherDay2025.PNG)
 
+## 2025-06-27 ISCA @ 日本早稻田
+第一次去日本参加ISCA，参观美丽的春山庄（前日本首相官邸）和早稻田大学，以及获得Best Paper Award！
+![Fast View](/images/aluminum/ISCA-2025.PNG)
+
 ## 2025-02-27 春游 @ 上海植物园
 大家去春游！
 ![Fast View](/images/aluminum/Play-2025-03.PNG)
@@ -38,6 +42,9 @@ tags:
 德州烧烤！！！
 ![Fast View](/images/aluminum/MICRO-2024.PNG)
 
+## 2024-06-23 ISCA @ 日本早稻田
+疫情后第一次参加DAC，旧金山吃好吃的！以及见到了久违的导师和老朋友！
+![Fast View](/images/aluminum/DAC-2024.PNG)
 
 ## 2024-09-11 迎新 @ 上海交大
 欢迎新同学！祝乐贝生日快乐！感谢大家的教师节祝福！
