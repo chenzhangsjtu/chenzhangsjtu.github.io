@@ -39,7 +39,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 ## Awards and Honors
 - [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)
 - [2025] ICCAD Best Reviewer Award
-- [2025] CCF 自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
+- [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
 - [2025] IoTsys Young Scientist Award
 - [2025] WAIC YunFan Award, Meritorious Winner【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
