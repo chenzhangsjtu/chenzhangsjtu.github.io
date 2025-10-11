@@ -42,7 +42,7 @@ tags:
 德州烧烤！！！
 ![Fast View](/images/aluminum/MICRO-2024.PNG)
 
-## 2024-06-23 ISCA @ 日本早稻田
+## 2024-06-23 ISCA @ 美国旧金山
 疫情后第一次参加DAC，旧金山吃好吃的！以及见到了久违的导师和老朋友！
 ![Fast View](/images/aluminum/DAC-2024.PNG)
 
