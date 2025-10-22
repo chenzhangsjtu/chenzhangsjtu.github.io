@@ -140,6 +140,7 @@ author_profile: true
 ### C5. Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks
 * **Chen Zhang**, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong
 * Proceedings of the 35th International Conference on Computer-Aided Design (ICCAD 2016) 【[PDF](https://chenzhangsjtu.github.io//files/2016-ICCAD.pdf)】
+* Award: <code style="color : orangered">ICCAD 2025 Ten-Year Retrospective Most Influential Paper Award</code>
 
 ### C4. Optimizing FPGA-based accelerator design for deep convolutional neural networks
 * **Chen Zhang**, Peng Li, Guangyu Sun, Yijin Guan, Bingjun Xiao, Jason Cong, "
