@@ -21,7 +21,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 
 
 ## News
-- [2025 Oct.] 祝贺同学们荣获第十九届“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛<code style="color : orangered">特等奖</code>!【[详细信息](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
+- [2025 Oct.] 祝贺同学们荣获“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛<code style="color : orangered">特等奖</code>!【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
 - [2025 June] "H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference" (ISCA-2025) wins <code style="color : orangered">Best Paper Award</code>!
 - [2025 May.] "DATIS: DRAM Architecture and Technology Integrated Simulation" (ISEDA-2025) wins <code style="color : orangered">Best Paper Award</code>!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
 - [2025 Mar.] "Optimizing FPGA-based accelerator design for deep convolutional neural networks" is inducted into the Class of 2025 FPGA and Reconfigurable Computing <code style="color : orangered">Hall of Fame</code>！【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)，[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
