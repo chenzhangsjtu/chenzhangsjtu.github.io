@@ -38,13 +38,13 @@ I have published over 30 papers in top-tier conferences and journals, including 
 
 
 ## Awards and Honors
-- [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)【[UCLA News](https://cdsc.ucla.edu/2025/10/28/congratulations-for-receiving-the-10-year-retrospective-most-influential-paper-award-at-iccad-2025/),[SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
+- [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)【[UCLA News](https://cdsc.ucla.edu/2025/10/28/congratulations-for-receiving-the-10-year-retrospective-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
 - [2025] ICCAD Best Reviewer Award
 - [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
 - [2025] IoTsys Young Scientist Award
 - [2025] WAIC YunFan Award, Meritorious Winner【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
-- [2025] ISCA Best Paper Award (Co-corresponding Author)【(PKU News)[https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm]】
+- [2025] ISCA Best Paper Award (Co-corresponding Author)【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
 - [2025] ISEDA Best Paper Award (Co-corresponding Author)
 - [2025] FPGA and Reconfigurable Computing Hall of Fame (First Author)【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
