@@ -38,7 +38,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 
 
 ## Awards and Honors
-- [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)【[UCLA News](https://cdsc.ucla.edu/2025/10/28/congratulations-for-receiving-the-10-year-retrospective-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
+- [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
 - [2025] ICCAD Best Reviewer Award
 - [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
