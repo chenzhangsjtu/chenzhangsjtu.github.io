@@ -33,7 +33,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 - Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA**, 2025 (<code style="color : orangered">优化超节点架构</code>)
 - H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025 (<code style="color : orangered">近存架构设计优化，最佳论文奖</code>)
 - Dual-side sparse tensor core, **ISCA**, 2021 (<code style="color : orangered">GPU稀疏张量运算单元</code>)
-- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018 (<code style="color : orangered">AI架构设计EDA，十年回顾最佳论文</code>)
+- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018 (<code style="color : orangered">AI架构设计EDA方法，十年回顾最佳论文</code>)
 - Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA**, 2015 (<code style="color : orangered">CNN加速器设计建模，十年回顾最佳论文</code>)
 
 
