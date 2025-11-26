@@ -30,11 +30,11 @@ I have published over 30 papers in top-tier conferences and journals, including 
 - [2019 Jan.] "Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks" published on T-CAD 2018 has win <code style="color : orangered">Donald O. Pederson Best Paper</code>! 【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
 
 ## Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
-- Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA**, 2025 (<code style="color : orangered">优化超节点架构</code>!)
-- H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025 (<code style="color : orangered">近存架构设计优化，最佳论文奖</code>!)
-- Dual-side sparse tensor core, **ISCA**, 2021 (<code style="color : orangered">GPU稀疏张量运算单元</code>!)
-- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018 (<code style="color : orangered">AI架构设计EDA，十年回顾最佳论文</code>!)
-- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA**, 2015 (<code style="color : orangered">CNN加速器设计建模，十年回顾最佳论文</code>!)
+- Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA**, 2025 (<code style="color : orangered">优化超节点架构</code>)
+- H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025 (<code style="color : orangered">近存架构设计优化，最佳论文奖</code>)
+- Dual-side sparse tensor core, **ISCA**, 2021 (<code style="color : orangered">GPU稀疏张量运算单元</code>)
+- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018 (<code style="color : orangered">AI架构设计EDA，十年回顾最佳论文</code>)
+- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA**, 2015 (<code style="color : orangered">CNN加速器设计建模，十年回顾最佳论文</code>)
 
 
 ## Awards and Honors
