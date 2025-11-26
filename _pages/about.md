@@ -21,6 +21,7 @@ I have published over 30 papers in top-tier conferences and journals, including 
 
 
 ## News
+- [2025 Nov.] 2x HPCA and 1x ASPLOS Paper get accepted!
 - [2025 Oct.] 祝贺同学们荣获“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛<code style="color : orangered">特等奖</code>!【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
 - [2025 June] "H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference" (ISCA-2025) wins <code style="color : orangered">Best Paper Award</code>!
 - [2025 May.] "DATIS: DRAM Architecture and Technology Integrated Simulation" (ISEDA-2025) wins <code style="color : orangered">Best Paper Award</code>!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
@@ -29,12 +30,11 @@ I have published over 30 papers in top-tier conferences and journals, including 
 - [2019 Jan.] "Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks" published on T-CAD 2018 has win <code style="color : orangered">Donald O. Pederson Best Paper</code>! 【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
 
 ## Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
-- H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025
-- SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU, **DAC**, 2025
-- Oltron: Software-Hardware Co-design for Outlier-Aware Quantization of LLMs with Inter-/Intra-Layer Adaptation, **DAC**, 2024
-- Dual-side sparse tensor core, **ISCA**, 2021
-- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018
-- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA**, 2015
+- Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA**, 2025 (<code style="color : orangered">优化超节点架构</code>!)
+- H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025 (<code style="color : orangered">近存架构设计优化，最佳论文奖</code>!)
+- Dual-side sparse tensor core, **ISCA**, 2021 (<code style="color : orangered">GPU稀疏张量运算单元</code>!)
+- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018 (<code style="color : orangered">AI架构设计EDA，十年回顾最佳论文</code>!)
+- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA**, 2015 (<code style="color : orangered">CNN加速器设计建模，十年回顾最佳论文</code>!)
 
 
 ## Awards and Honors

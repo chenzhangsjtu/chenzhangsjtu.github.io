@@ -41,11 +41,11 @@ author_profile: true
 
 ### C30. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
-* Proceedings of the 2026 IEEE 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
+* Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
 ### C29. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
-* Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, Chen Zhang , Anbang Wu, and Jingwen Leng
-* Proceedings of the 2026 IEEE 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
+* Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, **Chen Zhang**, Anbang Wu, and Jingwen Leng
+* Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
 ### C28. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
