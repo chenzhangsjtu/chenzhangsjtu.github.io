@@ -19,6 +19,8 @@ I received my Ph.D. from Peking University in 2017, under the supervision of [Pr
 
 I have published over 30 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving 5 Best Paper Awards (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25) and 2 Ten-year Retrospective Most Influential Paper Award (FPGA'15, ICCAD’16). My work has been cited over 5,300 times on Google Scholar, with a single paper cited more than 2,600 times. <!--- I have been honored as a member of the FPGA and Reconfigurable Computing Hall of Fame, named an AI 2000 Most Influential Scholar in the World, recognized as a Top 2% Most-Cited Researcher by Stanford and Elsevier, and received the ACM ChinaSys Rising Star Award, among other accolades.-->
 
+## Hiring
+==I am actively seeking talented and self-motivated students. There are 1 or 2 openings per year for future PhD candidates, 2 openings per year for master candidates, and multiple positions for interns. It’s always welcome to contact me via chenzhang [dt] sjtu [at] sjtu [dt] edu [dt] cn==
 
 ## News
 - [2025 Nov.] 2x HPCA and 1x ASPLOS Paper get accepted!
