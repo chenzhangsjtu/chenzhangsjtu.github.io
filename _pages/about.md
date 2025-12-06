@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张宸 - 上海交通大学 - 助理教授 - 博导"
+title: "张宸 - 上海交通大学"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,16 +12,16 @@ redirect_from:
 我于2023年5月加入上海交通大学电子信息与电气工程学院，任长聘教轨助理教授，博士生导师，上海市海外高层次人才计划。主要研究方向是AI处理器架构和芯片系统。此前，于2017年从北京大学博士毕业，导师[丛京生教授](https://vast.cs.ucla.edu/people/faculty/jason-cong)和[孙广宇教授](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)。期间于2015-2016前往美国加州大学洛杉矶分校([UCLA]((https://vast.cs.ucla.edu/people/alumni/chen-zhang)))学术访问。毕业后（2017-2023），任职微软研究院（Senior Researcher）和阿里巴巴平头哥半导体（主架构师团队成员），主导了多个国内外重要AI处理器与系统的研发工作。在 ISCA、MICRO、FPGA、DAC、T-CAD等国际会议和期刊发表论文30余篇，最佳论文或提名5次（FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25），谷歌施引5200余次，单篇最高引2600余次。个人入选 FPGA and Reconfigurable Computing Hall of Fame (名人堂)，AI-2000世界最有影响力学者，Stanford and Elsevier 前 2% 高被引学者，ACM ChinaSys 新星奖等。
 -->
 
+## Hiring
+<span style="color:red;">I am actively seeking talented and self-motivated students. There are 1 or 2 openings per year for future PhD candidates, 1 or 2 openings per year for master candidates, and multiple positions for interns. It’s always welcome to contact me via chenzhang [dt] sjtu [at] sjtu [dt] edu [dt] cn</span>.
+
 ## Biography
-Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. His research mainly focuses on ML/AI processors and accelerators, especially FPGA and GPU architectures, etc.. 
+Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. His research mainly focuses on ML/AI processors and accelerators, especially FPGA and GPU architectures. 
 
 He received his Ph.D. from Peking University in 2017, under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). From 2015 to 2016, he conducted academic research as a visiting scholar at the University of California, Los Angeles ([UCLA](https://vast.cs.ucla.edu/people/alumni/chen-zhang)). Before joining SJTU (2017-2023), he worked at Microsoft Research (as a Senior Researcher) and later at Alibaba T-Head Semiconductor (as a chip architect), where he led the development of several high-impact AI processors and systems both in China and internationally.
 
 
 He has published about 40 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving 5 Best Paper Awards (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25) and 2 Ten-year Retrospective Most Influential Paper Award (FPGA'15, ICCAD’16). His work has been cited over 5,600 times on Google Scholar, with a single paper cited more than 2,600 times. He has been honored as a member of the FPGA and Reconfigurable Computing Hall of Fame, named an AI 2000 Most Influential Scholar in the World, recognized as a Top 2% Most-Cited Researcher by Stanford and Elsevier, and received the WAIC YunFan Award, among other accolades. He is also a recipient of the Shanghai Overseas High-Level Talent Program and SJTU Qiyuan Young Scientist Program.
-
-## Hiring
-<span style="color:darkred;">I am actively seeking talented and self-motivated students. There are 1 or 2 openings per year for future PhD candidates, 1 or 2 openings per year for master candidates, and multiple positions for interns. It’s always welcome to contact me via chenzhang [dt] sjtu [at] sjtu [dt] edu [dt] cn</span>.
 
 
 ## News
