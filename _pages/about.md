@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "张宸 - 上海交通大学"
+title: "张宸 - 上海交通大学 - 助理教授 - 博导"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,12 @@ redirect_from:
 -->
 
 ## Biography
-I joined the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in May 2023 as a Tenure-Track Assistant Professor and Ph.D. advisor. I am also a recipient of the Shanghai Overseas High-Level Talent Program. My research focuses on AI processor architectures and chip systems.
+Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. His research mainly focuses on ML/AI processors and accelerators, especially FPGA and GPU architectures, etc.. 
 
-I received my Ph.D. from Peking University in 2017, under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). From 2015 to 2016, I conducted academic research as a visiting scholar at the University of California, Los Angeles ([UCLA](https://vast.cs.ucla.edu/people/alumni/chen-zhang)). After graduation, I worked at Microsoft Research (as a Senior Researcher) and later at Alibaba T-Head Semiconductor (as a member of the chief architect team), where I led the development of several high-impact AI processors and systems both in China and internationally.
+He received his Ph.D. from Peking University in 2017, under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). From 2015 to 2016, he conducted academic research as a visiting scholar at the University of California, Los Angeles ([UCLA](https://vast.cs.ucla.edu/people/alumni/chen-zhang)). After graduation, he worked at Microsoft Research (as a Senior Researcher) and later at Alibaba T-Head Semiconductor (as a member of the chief architect team), where he led the development of several high-impact AI processors and systems both in China and internationally.
 
-I have published over 30 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving 5 Best Paper Awards (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25) and 2 Ten-year Retrospective Most Influential Paper Award (FPGA'15, ICCAD’16). My work has been cited over 5,300 times on Google Scholar, with a single paper cited more than 2,600 times. <!--- I have been honored as a member of the FPGA and Reconfigurable Computing Hall of Fame, named an AI 2000 Most Influential Scholar in the World, recognized as a Top 2% Most-Cited Researcher by Stanford and Elsevier, and received the ACM ChinaSys Rising Star Award, among other accolades.-->
+
+He has published over 30 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving 5 Best Paper Awards (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25) and 2 Ten-year Retrospective Most Influential Paper Award (FPGA'15, ICCAD’16). His work has been cited over 5,600 times on Google Scholar, with a single paper cited more than 2,600 times. He have been honored as a member of the FPGA and Reconfigurable Computing Hall of Fame, named an AI 2000 Most Influential Scholar in the World, recognized as a Top 2% Most-Cited Researcher by Stanford and Elsevier, and received the WAIC YunFan Award, among other accolades. He is also a recipient of the Shanghai Overseas High-Level Talent Program and SJTU Qiyuan Young Scientist Program.
 
 ## Hiring
 <span style="color:darkred;">I am actively seeking talented and self-motivated students. There are 1 or 2 openings per year for future PhD candidates, 1 or 2 openings per year for master candidates, and multiple positions for interns. It’s always welcome to contact me via chenzhang [dt] sjtu [at] sjtu [dt] edu [dt] cn</span>.
