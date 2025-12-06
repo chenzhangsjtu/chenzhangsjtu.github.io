@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Paper
 
 ### T5. Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models
-* Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, **Chen Zhang**, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang, Guangyu Sun
+* Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang, Guangyu Sun
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-TCAD-Theseus.pdf)】
 
 ### T4. DSTC: Dual-Side Sparsity Tensor Core for DNNs Acceleration on Modern GPU Architectures
@@ -35,31 +35,35 @@ author_profile: true
 ## Conference Paper
 
 
-### C31. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
+### C32. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
 * Weiming Hu, Zihan Zhang, Haoyan Zhang, **Chen Zhang\***, Cong Guo, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng\*
 * Proceedings of the 31th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026)
 
-### C30. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
+### C31. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
-### C29. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
-* Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, **Chen Zhang**, Anbang Wu, and Jingwen Leng
+### C30. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
+* Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, Chen Zhang, Anbang Wu, and Jingwen Leng
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
-### C28. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
+### C29. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
 * Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
 * Award: <code style="color : orangered">Best Paper Award</code>
 
-### C27. DATIS: DRAM Architecture and Technology Integrated Simulation
+### C28. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
 * Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/ID198_ISEDA.pdf)】
 * Award: <code style="color : orangered">Best Paper Award</code>
 
-### C26. Tb-STC: Transposable Block-wise N:M Structured Sparse Tensor Core
-* Jun Liu, Shulin Zeng, Junbo Zhao, Li Ding, Zeyu Wang, Jinhao Li, Zhenhua Zhu, Xuefei Ning, **Chen Zhang**, Yu Wang, Guohao Dai*
+### C27. Tb-STC: Transposable Block-wise N:M Structured Sparse Tensor Core
+* Jun Liu, Shulin Zeng, Junbo Zhao, Li Ding, Zeyu Wang, Jinhao Li, Zhenhua Zhu, Xuefei Ning, Chen Zhang, Yu Wang, Guohao Dai*
 * Proceedings of the 2025 IEEE International Symposium on High Performance Computer Architecture (HPCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-HPCA.pdf)】
+
+### C26. MHDiff: Memory-and Hardware-Efficient Diffusion Acceleration via Focal Pixel Aware Quantization
+* Chunyu Qi, Xuhang Wang, Ruiyang Chen, Yuanzheng Yao, Naifeng Jing, Chen Zhang, Jun Wang, Zhihui Fu, Xiaoyao Liang, Zhuoran Song
+* Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2025)
 
 ### C25. SynGPU: Synergizing CUDA and Bit-Serial Tensor Cores for Vision Transformer Acceleration on GPU
 * Yuanzheng Yao, **Chen Zhang\***, Chunyu Qi, Ruiyang Chen, Jun Wang, Zhihui Fu, Naifeng Jing, Xiaoyao Liang, and Zhuoran Song\*
@@ -69,35 +73,34 @@ author_profile: true
 * Chenhao Xue, **Chen Zhang\***, Xun Jiang, Zhutianya Gao, Yibo Lin, Guangyu Sun\*
 * Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC 2024)【[PDF](https://chenzhangsjtu.github.io//files/2024-DAC.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/184DAC2024.pdf)】
 
-
 ### C23. Amanda: Unified instrumentation framework for deep neural networks
-* Yue Guan, Yuxian Qiu, Jingwen Leng, Fan Yang, Shuo Yu, Yunxin Liu, Yu Feng, Yuhao Zhu, Lidong Zhou, Yun Liang, **Chen Zhang**, Chao Li, Minyi Guo
+* Yue Guan, Yuxian Qiu, Jingwen Leng, Fan Yang, Shuo Yu, Yunxin Liu, Yu Feng, Yuhao Zhu, Lidong Zhou, Yun Liang, Chen Zhang, Chao Li, Minyi Guo
 * Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024)
 
 ### C22. Cambricon-r: A fully fused accelerator for real-time learning of neural scene representation
-* Xinkai Song, Yuanbo Wen, Xing Hu, Tianbo Liu, Haoxuan Zhou, Husheng Han, Tian Zhi, Zidong Du, Wei Li, Rui Zhang, **Chen Zhang**, Lin Gao, Qi Guo, Tianshi Chen
+* Xinkai Song, Yuanbo Wen, Xing Hu, Tianbo Liu, Haoxuan Zhou, Husheng Han, Tian Zhi, Zidong Du, Wei Li, Rui Zhang, Chen Zhang, Lin Gao, Qi Guo, Tianshi Chen
 * Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2023)
 
 ### C21. RM-STC: Row-merge dataflow inspired GPU sparse tensor core for energy-efficient sparse acceleration
-* Guyue Huang, Zhengyang Wang, Po-An Tsai, **Chen Zhang**, Yufei Ding, Yuan Xie
+* Guyue Huang, Zhengyang Wang, Po-An Tsai, Chen Zhang, Yufei Ding, Yuan Xie
 * Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2023)
 
 ### C20. OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization
-* Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, **Chen Zhang**, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
+* Cong Guo, Jiaming Tang, Weiming Hu, Jingwen Leng, Chen Zhang, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
 * Proceedings of the 50th Annual International Symposium on Computer Architecture (ISCA 2023)【[PDF](https://chenzhangsjtu.github.io//files/2023-ISCA.pdf)】
 
 ### C19. Nesting Forward Automatic Differentiation for Memory-Efficient Deep Neural Network Training
-* Cong Guo, Yuxian Qiu, Jingwen Leng, **Chen Zhang**, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo
+* Cong Guo, Yuxian Qiu, Jingwen Leng, Chen Zhang, Ying Cao, Quanlu Zhang, Yunxin Liu, Fan Yang, Minyi Guo
 * 2022 IEEE 40th International Conference on Computer Design (ICCD 2022)【[PDF](https://chenzhangsjtu.github.io//files/2022-ICCD.pdf)】
 
 ### C18. Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization
-* Cong Guo, **Chen Zhang**, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
+* Cong Guo, Chen Zhang, Jingwen Leng, Zihan Liu, Fan Yang, Yunxin Liu, Minyi Guo, Yuhao Zhu
 * Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)【[PDF](https://chenzhangsjtu.github.io//files/2022-MICRO.pdf)】
 * Award: <code style="color : orangered">MICRO 2022 Top Picks Honorable Mention</code>
 * Keywords: AI acceleration, Tensor Core, Quantization
 
 ### C17. SQuant: On-the-fly data-free quantization via diagonal hessian approximation
-* Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, **Chen Zhang**, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo
+* Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo
 * International Conference on Learning (ICLR 2022) 【[PDF](https://chenzhangsjtu.github.io//files/2022-ICLR.pdf)】
 
 ### C16. Dual-side sparse tensor core
@@ -110,11 +113,11 @@ author_profile: true
 * Proceedings of the 29th ACM International Conference on Multimedia (Multimedia 2021)【[PDF](https://chenzhangsjtu.github.io//files/2021-ACMMultimedia.pdf)】【[Web](https://mp.weixin.qq.com/s/Lk3Y3rH8NuQwUbdagNOE6Q)】
 
 ### C14. Scylla: Qoe-aware continuous mobile vision with fpga-based dynamic deep neural network reconfiguration
-* Shuang Jiang, Zhiyao Ma, Xiao Zeng, Chenren Xu, Mi Zhang, **Chen Zhang**, Yunxin Liu
+* Shuang Jiang, Zhiyao Ma, Xiao Zeng, Chenren Xu, Mi Zhang, Chen Zhang, Yunxin Liu
 * Proceedings of the 2022 IEEE Conference on Computer Communications (INFOCOM 2020)【[PDF](https://chenzhangsjtu.github.io//files/2020-INFOCOM.pdf)】
 
 ### C13. Ladabert: Lightweight adaptation of bert through hybrid model compression
-* Yihuan Mao, Yujing Wang, Chufan Wu, **Chen Zhang**, Yang Wang, Yaming Yang, Quanlu Zhang, Yunhai Tong, Jing Bai
+* Yihuan Mao, Yujing Wang, Chufan Wu, Chen Zhang, Yang Wang, Yaming Yang, Quanlu Zhang, Yunhai Tong, Jing Bai
 * Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020)【[PDF](https://chenzhangsjtu.github.io//files/2020-COLING.pdf)】
 
 ### C12. Live video analytics with FPGA-based smart cameras
@@ -138,11 +141,11 @@ author_profile: true
 * Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019) 【[PDF](https://chenzhangsjtu.github.io//files/2019-CVPR.pdf)】
 
 ### C8. Best-effort FPGA programming: A few steps can go a long way
-* Jason Cong, Zhenman Fang, Yuchen Hao, Peng Wei, Cody Hao Yu, **Chen Zhang**, Peipei Zhou
+* Jason Cong, Zhenman Fang, Yuchen Hao, Peng Wei, Cody Hao Yu, Chen Zhang, Peipei Zhou
 * arXiv preprint arXiv:1807.01340 (2018)
 
 ### C7. Using data compression for optimizing FPGA-based convolutional neural network accelerators
-* Yijin Guan, Ningyi Xu, **Chen Zhang**, Zhihang Yuan, Jason Cong
+* Yijin Guan, Ningyi Xu, Chen Zhang, Zhihang Yuan, Jason Cong
 * International workshop on advanced parallel processing technologies (2017)
 
 ### C6. Energy-efficient CNN implementation on a deeply pipelined FPGA cluster
@@ -162,15 +165,15 @@ author_profile: true
 * Keyword: Convolutional Neural Network, FPGA, Acceleration, Roofline Model 
 
 ### C3. An efficient design and implementation of LSM-tree based key-value store on open-channel SSD
-* Peng Wang, Guangyu Sun, Song Jiang, Jian Ouyang, Shiding Lin, **Chen Zhang**, Jason Cong
+* Peng Wang, Guangyu Sun, Song Jiang, Jian Ouyang, Shiding Lin, Chen Zhang, Jason Cong
 * Proceedings of the Ninth European Conference on Computer Systems (EuroSys 2014)【[PDF](https://chenzhangsjtu.github.io//files/2014-Eurosys.pdf)】
 
 ### C2. Memory partitioning for multidimensional arrays in high-level synthesis
-* Yuxin Wang, Peng Li, Peng Zhang, **Chen Zhang**, Jason Cong
+* Yuxin Wang, Peng Li, Peng Zhang, Chen Zhang, Jason Cong
 * Proceedings of the 50th Annual Design Automation Conference (DAC 2013)【[PDF](https://chenzhangsjtu.github.io//files/2013-DAC.pdf)】
 
 ### C1. Automatic multidimensional memory partitioning for FPGA-based accelerators
-* Yuxin Wang, Peng Li, Peng Zhang, **Chen Zhang**, Jason Cong
+* Yuxin Wang, Peng Li, Peng Zhang, Chen Zhang, Jason Cong
 * Proceedings of the ACM/SIGDA international symposium on Field programmable gate arrays (FPGA 2013)
 
 ## Patent
