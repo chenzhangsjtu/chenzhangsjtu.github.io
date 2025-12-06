@@ -55,9 +55,9 @@ He has published about 40 papers in top-tier conferences and journals, including
 <!--- - [2025] 上海交通大学“启源”青年科技创新学者 -->
 - [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
-- [2025] IoTsys Young Scientist Award
+- [2025] AIoTsys Young Scientist Award
 - [2025] 世界人工智能大会“云帆奖·璀璨明星”【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
-- [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
+- [2024] Stanford Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
 - [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
 <!-- - [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】-->
 - [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
