@@ -48,7 +48,7 @@ He has published about 40 papers in top-tier conferences and journals, including
 - [2025] FPGA and Reconfigurable Computing Hall of Fame (First Author)【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
 - [2022] MICRO Top Picks Honorable Mention (Second Author) <!--（MICRO 年度最佳论文优胜奖）-->
 - [2019] Donald O. Pederson Best Paper (First Author)【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
-- [2015] FPGA Best Paper Nomination 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
+- [2015] FPGA Best Paper Nomination (First Author) 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
 
 
 ## Honors
@@ -56,7 +56,7 @@ He has published about 40 papers in top-tier conferences and journals, including
 - [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
 - [2025] IoTsys Young Scientist Award
-- [2025] WAIC YunFan Award, Meritorious Winner【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
+- [2025] 世界人工智能大会“云帆奖·璀璨明星”【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
 - [2024] Stanford and Elsevier Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
 - [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
 <!-- - [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】-->
