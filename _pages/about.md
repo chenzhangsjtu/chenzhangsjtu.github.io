@@ -13,7 +13,7 @@ redirect_from:
 -->
 
 ## Hiring
-<span style="color:red;">I am actively seeking talented and self-motivated students. There are 1 or 2 openings per year for future PhD candidates, 1 or 2 openings per year for master candidates, and multiple positions for interns. It’s always welcome to contact me via chenzhang [dt] sjtu [at] sjtu [dt] edu [dt] cn</span>.
+<span style="color:red;">I am actively seeking talented and self-motivated students. There are 1 or 2 openings per year for future PhD candidates, 1 or 2 openings per year for master candidates, and multiple positions for interns. It’s always welcome to contact me via </span> ![email](/images/email.PNG).
 
 ## Biography
 Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University. His research mainly focuses on ML/AI processors and accelerators, especially FPGA and GPU architectures. 
