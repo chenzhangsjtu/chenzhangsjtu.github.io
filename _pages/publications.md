@@ -39,10 +39,11 @@ author_profile: true
 * Weiming Hu, Zihan Zhang, Haoyan Zhang, **Chen Zhang\***, Cong Guo, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng\*
 * Proceedings of the 31th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026)
 
+<!---
 ### C31. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
-
+-->
 ### C30. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
 * Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, Chen Zhang, Anbang Wu, and Jingwen Leng
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
