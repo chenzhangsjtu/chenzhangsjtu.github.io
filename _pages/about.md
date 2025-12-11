@@ -52,7 +52,7 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 
 ## Honors
-- [2025] 上海交通大学“启源”青年科技创新学者
+- [2025] 上海交通大学“启源”青年学者
 - [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
 - [2025] AIoTsys Young Scientist Award
