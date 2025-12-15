@@ -41,27 +41,27 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 
 ## Awards
-- [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award (First Author)【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
-- [2025] ICCAD Best Reviewer Award
-- [2025] ISCA Best Paper Award (Co-corresponding Author)【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
-- [2025] ISEDA Best Paper Award (Co-corresponding Author)
-- [2025] FPGA and Reconfigurable Computing Hall of Fame (First Author)【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
-- [2022] MICRO Top Picks Honorable Mention (Second Author) <!--（MICRO 年度最佳论文优胜奖）-->
-- [2019] Donald O. Pederson Best Paper (First Author)【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
-- [2015] FPGA Best Paper Nomination (First Author) 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
+- [2025] ICCAD Ten-Year Retrospective Most Influential Paper Award 十年回顾最佳论文奖【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
+- [2025] ICCAD Best Reviewer Award 最佳审稿人奖
+- [2025] ISCA Best Paper Award 最佳论文奖【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
+- [2025] ISEDA Best Paper Award 最佳论文奖
+- [2025] FPGA and Reconfigurable Computing Hall of Fame 名人堂/十年回顾最佳论文奖【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
+- [2022] MICRO Top Picks Honorable Mention 年度最佳论文优胜奖 <!--（MICRO 年度最佳论文优胜奖）-->
+- [2019] Donald O. Pederson Best Paper 最佳论文奖【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
+- [2015] FPGA Best Paper Nomination 最佳论文提名奖 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
 
 
 ## Honors
 - [2025] 上海交通大学“启源”青年学者
-- [2025] CCF科技成果奖自然科学一等奖（排3）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
+- [2025] CCF科技成果奖自然科学一等奖（排名第三）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
-- [2025] AIoTsys Young Scientist Award
+- [2025] AIoTsys Young Scientist Award 青年科学家奖
 - [2025] 世界人工智能大会“云帆奖·璀璨明星”【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
 - [2024] Stanford Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
-- [2021~2024] AI-2000 World's Most Influential Scholars (AI Chip)【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
+- [2021~2024] AI-2000 World's Most Influential Scholars（Top 2） 全球最具影响力学者（第二名）【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
 <!-- - [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】-->
-- [2022] ACM ChinaSys Rising Star【[Web](https://chinasys.org/doku.php?id=awards)】
-- [2019] Microsoft Research SSA（微软研究院院长特别奖）
+- [2022] ACM ChinaSys Rising Star 新星奖【[Web](https://chinasys.org/doku.php?id=awards)】
+- [2019] Microsoft Research SSA 微软研究院院长特别奖
 
 
 <!---
