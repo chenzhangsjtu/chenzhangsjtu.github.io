@@ -21,7 +21,7 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 He received his Ph.D. from Peking University in 2017, under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) and [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm). From 2015 to 2016, he conducted academic research as a visiting scholar at the University of California, Los Angeles ([UCLA](https://vast.cs.ucla.edu/people/alumni/chen-zhang)). Before joining SJTU (2017-2023), he worked at Microsoft Research (as a Senior Researcher) and later at Alibaba T-Head Semiconductor (as a chip architect), where he led the development of several high-impact AI processors and systems both in China and internationally.
 
 
-He has published about 40 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving 5 Best Paper Awards (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25) and 2 Ten-year Retrospective Most Influential Paper Award (FPGA'15, ICCAD’16). His work has been cited over 5,600 times on Google Scholar, with a single paper cited more than 2,600 times. He has been honored as a member of the FPGA and Reconfigurable Computing Hall of Fame, named an AI 2000 Most Influential Scholar in the World, recognized as a Top 2% Most-Cited Researcher by Stanford and Elsevier, and received the WAIC YunFan Award, among other accolades. He is also a recipient of the Shanghai Overseas High-Level Talent Program and SJTU Qiyuan Young Scientist Program.
+He has published about 40 papers in top-tier conferences and journals, including ISCA, MICRO, FPGA, DAC, and IEEE TCAD, receiving 5 Best Paper Awards (FPGA'15, TCAD'19, MICRO'22, ISEDA'25, ISCA'25) and 2 Ten-year Retrospective Most Influential Paper Award (FPGA'15, ICCAD’16). His work has been cited over 5,600 times on Google Scholar, with a single paper cited more than 2,600 times. He has been honored as a member of the FPGA and Reconfigurable Computing Hall of Fame, named an AI 2000 Most Influential Scholar in the World, recognized as a Top 2% Most-Cited Researcher by Stanford and Elsevier, and received the WAIC YunFan Award, among other accolades. He is also a recipient of the Shanghai Overseas High-Level Talent Program and Shanghai Qiyuan Young Scientist Program.
 
 
 ## News
@@ -52,7 +52,7 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 
 ## Honors
-- [2025] 上海交通大学“启源”青年学者
+- [2025] 上海市“启源”青年学者
 - [2025] CCF科技成果奖自然科学一等奖（排名第三）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
 <!--- [2025] 教育部自然科学二等奖（排4）-->
 - [2025] AIoTsys Young Scientist Award 青年科学家奖
