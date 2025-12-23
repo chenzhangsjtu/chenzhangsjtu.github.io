@@ -46,6 +46,7 @@ He has published about 40 papers in top-tier conferences and journals, including
 - [2025] ISCA Best Paper Award 最佳论文奖【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
 - [2025] ISEDA Best Paper Award 最佳论文奖
 - [2025] FPGA and Reconfigurable Computing Hall of Fame 名人堂/十年回顾最佳论文奖【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
+- [2025] “挑战杯”中国青年科技创新“揭榜挂帅”擂台赛特等奖【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
 - [2022] MICRO Top Picks Honorable Mention 年度最佳论文优胜奖 <!--（MICRO 年度最佳论文优胜奖）-->
 - [2019] Donald O. Pederson Best Paper 最佳论文奖【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
 - [2015] FPGA Best Paper Nomination 最佳论文提名奖 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
