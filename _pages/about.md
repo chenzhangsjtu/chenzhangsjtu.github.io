@@ -60,8 +60,8 @@ He has published about 40 papers in top-tier conferences and journals, including
 - *2019* Microsoft Research SSA 院长特别奖，微软研究院
 
 ## Team Honors
-2025. 科技成果奖·自然科学一等奖（排名第三），中国计算机学会（CCF）【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
-2025. 科学研究优秀成果奖·自然科学二等奖，教育部（排名第四）
+2025\. 科技成果奖·自然科学一等奖（排名第三），中国计算机学会（CCF）【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
+2025\. 科学研究优秀成果奖·自然科学二等奖，教育部（排名第四）
 
 ## Teaching Awards 
 - *2025* “挑战杯”中国青年科技创新“揭榜挂帅”擂台赛，特等奖，共青团中央【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
