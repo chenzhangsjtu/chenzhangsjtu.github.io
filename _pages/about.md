@@ -26,12 +26,12 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 ## News
 - *2025 Nov.* 2x HPCA and 1x ASPLOS Paper get accepted!
-- *2025 Nov.* Our ICCAD'2016 paper wins <code style="color : orangered">Ten-Year Retrospective Most Influential Paper Award</code>!
+- *2025 Nov.* ICCAD'2016 paper wins <code style="color : orangered">Ten-Year Retrospective Most Influential Paper Award</code>!
 - *2025 Oct.* 祝贺同学们荣获“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛<code style="color : orangered">特等奖</code>!【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
-- *2025 June* Our ISCA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!
-- *2025 May.* Our ISEDA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
-- *2025 Mar.* Our FPGA'2015 paper is inducted into the Class of 2025 FPGA and Reconfigurable Computing <code style="color : orangered">Hall of Fame</code>！【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)，[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
-- *2019 Jan.* Our T-CAD'2018 paper has win <code style="color : orangered">Donald O. Pederson Best Paper</code>! 【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
+- *2025 June* ISCA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!
+- *2025 May.* ISEDA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
+- *2025 Mar.* FPGA'2015 paper is inducted into the Class of 2025 FPGA and Reconfigurable Computing <code style="color : orangered">Hall of Fame</code>！【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)，[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
+- *2019 Jan.* T-CAD'2018 paper has win <code style="color : orangered">Donald O. Pederson Best Paper</code>! 【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
 
 ## Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
 - Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA**, 2026 (<code style="color : orangered">Multi-GPU超节点架构</code>)
@@ -42,34 +42,34 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 
 ## Academic Awards
-- ICCAD Ten-Year Retrospective Most Influential Paper Award 十年回顾最佳论文奖，*2025*【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
-- ISCA Best Paper Award 最佳论文奖，*2025*【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
-- ISEDA Best Paper Award 最佳论文奖，*2025*【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
-- FPGA and Reconfigurable Computing Hall of Fame 名人堂，*2025*【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
-- MICRO Top Picks Honorable Mention 年度亮点论文优胜奖，*2022* <!--（MICRO 年度最佳论文优胜奖）-->
-- Donald O. Pederson Best Paper 最佳论文奖，*2019*【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
-- FPGA Best Paper Nomination 最佳论文提名奖，*2015* 【[Details](https://www.isfpga.org/past/fpga2015/index.html)】
-- FPGA会议历史（自1992年以来）高被引论文（第一名），*2023~present*【[Details](https://dl.acm.org/conference/fpga)
+- ICCAD Ten-Year Retrospective Most Influential Paper Award 十年回顾最佳论文奖，2025【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
+- ISCA Best Paper Award 最佳论文奖，2025【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
+- ISEDA Best Paper Award 最佳论文奖，2025【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
+- FPGA and Reconfigurable Computing Hall of Fame 名人堂，2025【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
+- MICRO Top Picks Honorable Mention 年度亮点论文优胜奖，2022 <!--（MICRO 年度最佳论文优胜奖）-->
+- Donald O. Pederson Best Paper 最佳论文奖，2019【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
+- FPGA Best Paper Nomination 最佳论文提名奖，2015 【[Details](https://www.isfpga.org/past/fpga2015/index.html)】
+- FPGA会议历史（自1992年以来）高被引论文（第一名），2023~present【[Details](https://dl.acm.org/conference/fpga)
 
 ## Personal Honors
-- 上海市“启源”青年学者，*2025*，上海市国资委
-- AIoTSys Young Scientist Award 青年科学家奖，*2025*，“一带一路”智能物联网国际合作联盟
-- WAIC 云帆奖·璀璨明星，*2025*，世界人工智能大会【[Details](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
-- ChinaSys Rising Star 新星奖，*2022*，ACM SIGOPS China【[Details](https://chinasys.org/doku.php?id=awards)】
-- World's Top-2% Most Cited Scholars, *2021~present*, Stanford【[Details](https://topresearcherslist.com/Home/Profile/899190)】
-- World's Most Influential Scholars (Top 2), *2021~present*, 全球最具影响力学者, AI-2000【[Details](https://www.aminer.cn/ai2000/ct)】
-- Microsoft Research SSA 院长特别奖，*2019*，微软研究院
+- 上海市“启源”青年学者，2025，上海市国资委
+- AIoTSys Young Scientist Award 青年科学家奖，2025，“一带一路”智能物联网国际合作联盟
+- WAIC 云帆奖·璀璨明星，2025，世界人工智能大会【[Details](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
+- ChinaSys Rising Star 新星奖，2022，ACM SIGOPS China【[Details](https://chinasys.org/doku.php?id=awards)】
+- World's Top-2% Most Cited Scholars, 2021~present, Stanford【[Details](https://topresearcherslist.com/Home/Profile/899190)】
+- World's Most Influential Scholars (Top 2), 2021~present, 全球最具影响力学者, AI-2000【[Details](https://www.aminer.cn/ai2000/ct)】
+- Microsoft Research SSA 院长特别奖，2019，微软研究院
 
 ## Team Honors
-- 科技成果奖·自然科学一等奖（排名第三），*2025*，中国计算机学会（CCF）【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
-- 科学研究优秀成果奖·自然科学二等奖（排名第四），*2025*，教育部
+- 科技成果奖·自然科学一等奖（排名第三），2025，中国计算机学会（CCF）【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
+- 科学研究优秀成果奖·自然科学二等奖（排名第四），2025，教育部
 
 ## Teaching Awards 
-- “挑战杯”中国青年科技创新“揭榜挂帅”擂台赛，特等奖，*2025*，共青团中央【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
-- 第九届全国大学生集成电路创新创业大赛，二等奖，*2025*，工信部
+- “挑战杯”中国青年科技创新“揭榜挂帅”擂台赛，特等奖，2025，共青团中央【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
+- 第九届全国大学生集成电路创新创业大赛，二等奖，2025，工信部
 
 ## Community Service Awards
-- ICCAD Best Reviewer Award 最佳审稿人奖，*2025*，ICCAD Committee
+- ICCAD Best Reviewer Award 最佳审稿人奖，2025，ICCAD Committee
 
 
 <!---
