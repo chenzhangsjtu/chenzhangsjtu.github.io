@@ -53,9 +53,9 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 ## Personal Honors
 - 上海市“启源”青年学者，2025，上海市国资委
-- AIoTSys Young Scientist Award 青年科学家奖，2025，“一带一路”智能物联网国际合作联盟
+- AIoTSys 青年科学家奖，2025，“一带一路”智能物联网国际合作联盟
 - WAIC 云帆奖·璀璨明星，2025，世界人工智能大会【[Details](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
-- ChinaSys Rising Star 新星奖，2022，ACM SIGOPS China【[Details](https://chinasys.org/doku.php?id=awards)】
+- ChinaSys Rising Star Award 新星奖，2022，ACM SIGOPS China【[Details](https://chinasys.org/doku.php?id=awards)】
 - World's Top-2% Most Cited Scholars, 2021~present, Stanford【[Details](https://topresearcherslist.com/Home/Profile/899190)】
 - World's Most Influential Scholars (Top 2), 2021~present, 全球最具影响力学者, AI-2000【[Details](https://www.aminer.cn/ai2000/ct)】
 - Microsoft Research SSA 院长特别奖，2019，微软研究院
