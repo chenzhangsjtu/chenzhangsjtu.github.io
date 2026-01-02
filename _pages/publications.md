@@ -41,7 +41,7 @@ author_profile: true
 
 
 ### C31. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
-* **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
+* **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
 ### C30. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
