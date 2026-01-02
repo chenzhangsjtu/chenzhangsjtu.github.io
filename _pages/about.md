@@ -45,23 +45,23 @@ He has published about 40 papers in top-tier conferences and journals, including
 - [2025] ISCA Best Paper Award 最佳论文奖【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
 - [2025] ISEDA Best Paper Award 最佳论文奖
 - [2025] FPGA and Reconfigurable Computing Hall of Fame 名人堂/十年回顾最佳论文奖【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
-- [2022] MICRO Top Picks Honorable Mention 年度最佳论文优胜奖 <!--（MICRO 年度最佳论文优胜奖）-->
+- [2022] MICRO Top Picks Honorable Mention 年度亮点论文优胜奖 <!--（MICRO 年度最佳论文优胜奖）-->
 - [2019] Donald O. Pederson Best Paper 最佳论文奖【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
-- [2015] FPGA Best Paper Nomination 最佳论文提名奖 【[Web](https://www.isfpga.org/past/fpga2015/index.html)】
+- [2015] FPGA Best Paper Nomination 最佳论文提名奖 【[Details](https://www.isfpga.org/past/fpga2015/index.html)】
+- [2023~present] FPGA会议历史（自1992年以来）高被引论文（第一名）【[Details](https://dl.acm.org/conference/fpga)
 
 ## Personal Honors
-- [2025] 上海市“启源”青年学者
-- [2025] AIoTsys Young Scientist Award 青年科学家奖
-- [2025] 世界人工智能大会“云帆奖·璀璨明星”【[Shanghai AI Lab News](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
-- [2024] Stanford Top-2% Most Cited Scholars (Computer Architecture and Hardware)【[Web](https://topresearcherslist.com/Home/Profile/899190)】
-- [2021~2024] AI-2000 World's Most Influential Scholars（Top 2） 全球最具影响力学者（第二名）【[AI-2000 Web](https://www.aminer.cn/ai2000/ct)】
-<!-- - [2024] FPGA会议历史（自1992年以来）高被引论文（第一名）【[ACM Library](https://dl.acm.org/conference/fpga)】-->
-- [2022] ACM ChinaSys Rising Star 新星奖【[Web](https://chinasys.org/doku.php?id=awards)】
-- [2019] Microsoft Research SSA 微软研究院院长特别奖
+- [2025] 上海市“启源”青年学者，上海市国资委
+- [2025] AIoTsys Young Scientist Award 青年科学家奖，“一带一路”智能物联网国际合作联盟
+- [2025] WAIC 云帆奖·璀璨明星，世界人工智能大会【[Details](https://mp.weixin.qq.com/s/tZo4lPEPPP1Xp94KbycziQ)】
+- [2022] ChinaSys Rising Star 新星奖，ACM SIGOPS China【[Details](https://chinasys.org/doku.php?id=awards)】
+- [2021~present] World's Top-2% Most Cited Scholars, Stanford【[Details](https://topresearcherslist.com/Home/Profile/899190)】
+- [2021~present] World's Most Influential Scholars（Top 2） 全球最具影响力学者, AI-2000【[Details](https://www.aminer.cn/ai2000/ct)】
+- [2019] Microsoft Research SSA 院长特别奖，微软研究院
 
 ## Team Honors
-- [2025] CCF科技成果奖自然科学一等奖（排名第三）【[CCF科技成果奖](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
-- [2025] 教育部科学研究优秀成果奖（自然科学）二等奖（排名第四）
+- [2025] 科技成果奖·自然科学一等奖（排名第三），中国计算机学会（CCF）【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
+- [2025] 科学研究优秀成果奖·自然科学二等奖，教育部（排名第四）
 
 ## Teaching Awards 
 - [2025] “挑战杯”中国青年科技创新“揭榜挂帅”擂台赛，特等奖，共青团中央【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
