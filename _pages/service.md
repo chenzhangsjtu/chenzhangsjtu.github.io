@@ -7,16 +7,16 @@ author_profile: true
 
 Conference Organizing Committee Member
 ======
+- Publicity Chair, Great Lakes Symposium on VLSI (GLSVLSI), New York, June 22nd-24th, 2026. ([Conference Link](http://www.glsvlsi.org/))
 - Special Session Chair, International Conference on Field Programmable Technology (FPT), Shanghai, 2-5th Decembe, 2025 ([Conference Link](https://fpt2025.shanghaitech.edu.cn/))
 - Program Chair, 24th ACM SIGOPS ChinaSys, Wuhan, 28-30th, July, 2023 ([Conference Link](https://www.acmturc.com/2023/cn/SIGOPS_China.html))
 
 
-
 Conference Program Committee Member
 ======
-- Design Automation Conference (DAC), 2024
+- Design Automation Conference (DAC), 2024, 2025
 - International Conference on Computer Aided Design (ICCAD), 2023, 2024, 2025
-- IPDPS RAW, 2024
+- IPDPS RAW, 2024, 2025
 
 Editors and Reviewers
 ======
