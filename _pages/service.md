@@ -14,6 +14,7 @@ Conference Organizing Committee Member
 
 Conference Program Committee Member
 ======
+- International Symposium on Computer Architecture (ISCA), 2025
 - Design Automation Conference (DAC), 2024, 2025
 - International Conference on Computer Aided Design (ICCAD), 2023, 2024, 2025
 - IPDPS RAW, 2024, 2025
