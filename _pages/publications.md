@@ -35,28 +35,32 @@ author_profile: true
 ## Conference Paper
 
 
-### C32. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
+### C33. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
 * Weiming Hu, Zihan Zhang, Haoyan Zhang, **Chen Zhang\***, Cong Guo, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng\*
 * Proceedings of the 31th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-ASPLOS-M2XFP.pdf)】
 
 
-### C31. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
+### C32. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-HPCA-CAIS.pdf)】【[Slides](https://chenzhangsjtu.github.io//files/slides/CAIS-final.pdf)】
 
-### C30. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
+### C31. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
 * Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, Chen Zhang, Anbang Wu, and Jingwen Leng
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
-### C29. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
+### C30. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
 * Proceedings of the 52th Annual International Symposium on Computer Architecture (ISCA 2025)【[PDF](https://chenzhangsjtu.github.io//files/2025-H2_LLM_ISCA25.pdf)】
 * Award: <code style="color : orangered">Best Paper Award</code>
 
-### C28. DATIS: DRAM Architecture and Technology Integrated Simulation
+### C29. DATIS: DRAM Architecture and Technology Integrated Simulation
 * Shiyu Xia, **Chen Zhang\***, Guangyu Sun, Guohao Dai, Runsheng Wang, Zhigang Ji\*, Ru Huang
 * Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA.pdf)】【[Slide](https://chenzhangsjtu.github.io//files/slides/ID198_ISEDA.pdf)】
 * Award: <code style="color : orangered">Best Paper Award</code>
+
+### C28. DOMAC: Differentiable Optimization for High-Speed Multipliers and Multiply-Accumulators
+* Chenhao Xue, Yi Ren, Jinwei Zhou, Kezhi Li, **Chen Zhang**, Yibo Lin, Lining Zhang, Qiang Xu, Guangyu Sun
+* Proceedings of the 2025 International Symposium of EDA （ISEDA 2025）【[PDF](https://chenzhangsjtu.github.io//files/2025ISEDA-DOMAC.pdf)】
 
 ### C27. Tb-STC: Transposable Block-wise N:M Structured Sparse Tensor Core
 * Jun Liu, Shulin Zeng, Junbo Zhao, Li Ding, Zeyu Wang, Jinhao Li, Zhenhua Zhu, Xuefei Ning, Chen Zhang, Yu Wang, Guohao Dai*
