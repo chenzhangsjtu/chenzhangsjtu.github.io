@@ -38,6 +38,7 @@ author_profile: true
 ### C33. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
 * Weiming Hu, Zihan Zhang, Haoyan Zhang, **Chen Zhang\***, Cong Guo, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng\*
 * Proceedings of the 31th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-ASPLOS-M2XFP.pdf)】
+* Award: <code style="color : orangered">Best Paper Nomination</code>
 
 
 ### C32. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
