@@ -25,7 +25,7 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 
 ## News
-- *2026 Mar.* 2x ISCA Paper get accepted!
+- *2026 Mar.* 3x ISCA Paper get accepted!
 - *2026 Mar.* ASPLOS'2026 paper have been nominated as <code style="color : orangered">Best Paper Candidates</code>!
 - *2026 Feb.* 2x DAC and 1x CVPR Paper get accepted!
 - *2025 Nov.* 2x HPCA and 1x ASPLOS Paper get accepted!

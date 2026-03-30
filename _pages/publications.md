@@ -42,6 +42,21 @@ author_profile: true
 
 ## Conference Paper
 
+### C37. MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems
+* Zhuoshan Zhou, **Chen Zhang\***, Shuyi Zhang, Qijun Zhang, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
+* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
+
+### C36. Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs
+* Qijun Zhang, **Chen Zhang\***, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
+* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
+
+### C35. Optimizing 3D Gaussian Splatting with Axis-Shared Rasterization and Order-independent Transmittance
+* Zhican Wang, Guanghui He*, Lingjun Gao, Dantong Liu, Shell Xu Hu, Chen Zhang, Zhuoran Song, Nicholas Lane, Hongxiang Fan
+* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
+
+### C34. VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference
+* Anmin Liu, Ruixuan Yang, Huiqiang Jiang, Bin Lin, Minmin Sun, Yong Li, **Chen Zhang\***, Tao Xie*
+* Computer Vision and Pattern Recognition Conference (CVPR 2026)
 
 ### C33. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
 * Weiming Hu, Zihan Zhang, Haoyan Zhang, **Chen Zhang\***, Cong Guo, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng\*
@@ -54,7 +69,7 @@ author_profile: true
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-HPCA-CAIS.pdf)】【[Slides](https://chenzhangsjtu.github.io//files/slides/CAIS-final.pdf)】
 
 ### C31. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
-* Ziyu Huang , Yangjie Zhou , Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo , Jidong Zhai , Yu Feng, Chen Zhang, Anbang Wu, and Jingwen Leng
+* Ziyu Huang , Yangjie Zhou, Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo, Jidong Zhai, Yu Feng*, Chen Zhang, Anbang Wu, and Jingwen Leng*
 * Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
 
 ### C30. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
