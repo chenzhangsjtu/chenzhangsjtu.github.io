@@ -37,11 +37,12 @@ He has published about 40 papers in top-tier conferences and journals, including
 - *2019 Jan.* T-CAD'2018 paper has win <code style="color : orangered">Donald O. Pederson Best Paper</code>! 【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
 
 ## Selected Publications（[Full List](https://chenzhangsjtu.github.io/publications/)）
-- Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA**, 2026 (<code style="color : orangered">Multi-GPU超节点架构</code>)
-- H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA**, 2025 (<code style="color : orangered">xPU-PIM架构联合设计优化</code>, <code style="color : orangered">最佳论文奖</code>)
+- MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems, **ISCA 2026** (<code style="color : orangered">Multi-GPU超节点架构</code>)
+- Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA 2026**  (<code style="color : orangered">Multi-GPU超节点架构</code>)
+- H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA 2025** (<code style="color : orangered">xPU-PIM架构建模与优化</code>, <code style="color : orangered">最佳论文奖</code>)
 - Dual-side sparse tensor core, **ISCA**, 2021 (<code style="color : orangered">GPU稀疏张量运算单元</code>)
-- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD**, 2018 (<code style="color : orangered">AI架构设计EDA方法</code>, <code style="color : orangered">十年回顾最佳论文</code>)
-- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA**, 2015 (<code style="color : orangered">CNN加速器设计建模</code>, <code style="color : orangered">十年回顾最佳论文</code>)
+- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD 2018** (<code style="color : orangered">AI架构设计建模方法</code>, <code style="color : orangered">十年回顾最佳论文</code>)
+- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA 2015**  (<code style="color : orangered">CNN加速器设计建模</code>, <code style="color : orangered">十年回顾最佳论文</code>)
 
 
 ## Academic Awards

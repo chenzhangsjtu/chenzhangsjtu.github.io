@@ -42,27 +42,34 @@ author_profile: true
 
 ## Conference Paper
 
-### C37. MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems
+### C39. MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems
 * Zhuoshan Zhou, **Chen Zhang\***, Shuyi Zhang, Qijun Zhang, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
 * Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
 
-### C36. Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs
+### C38. Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs
 * Qijun Zhang, **Chen Zhang\***, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
 * Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
 
-### C35. Optimizing 3D Gaussian Splatting with Axis-Shared Rasterization and Order-independent Transmittance
+### C37. Optimizing 3D Gaussian Splatting with Axis-Shared Rasterization and Order-independent Transmittance
 * Zhican Wang, Guanghui He*, Lingjun Gao, Dantong Liu, Shell Xu Hu, Chen Zhang, Zhuoran Song, Nicholas Lane, Hongxiang Fan
 * Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
 
-### C34. VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference
+### C36. VecAttention: Vector-wise Sparse Attention for Accelerating Long Context Inference
 * Anmin Liu, Ruixuan Yang, Huiqiang Jiang, Bin Lin, Minmin Sun, Yong Li, **Chen Zhang\***, Tao Xie*
-* Computer Vision and Pattern Recognition Conference (CVPR 2026)
+* Computer Vision and Pattern Recognition Conference (CVPR 2026)【[PDF](http://arxiv.org/abs/2603.29494)】
 
-### C33. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
+### C35. M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization
 * Weiming Hu, Zihan Zhang, Haoyan Zhang, **Chen Zhang\***, Cong Guo, Yu Feng, Tianchi Hu, Guanglin Li, Guipeng Hu, Junsong Wang, Jingwen Leng\*
 * Proceedings of the 31th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-ASPLOS-M2XFP.pdf)】
 * Award: <code style="color : orangered">Best Paper Nomination</code>
 
+### C34. PipeGS: Unlocking 3DGS Pipeline Parallelism via Hierarchical Reuse and Dynamic Partitioning
+* Xueling Wang, Yuzhou Chen, Zhican Wang, Pan Zhao, Renda Jian, Yitian Chen, **Chen Zhang\***, Yang Hu and Guanghui He*
+* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)
+
+### C33. SpRDA: An Efficient Sparse Accelerator for Robotics Diffusion Model
+* Renda Jian, Yuzhou Chen, Pan Zhao, Yitian Chen, Zhican Wang, Xueling Wang, **Chen Zhang\*** and Guanghui He*
+* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)
 
 ### C32. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
