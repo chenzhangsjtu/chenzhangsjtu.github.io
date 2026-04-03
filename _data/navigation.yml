@@ -18,7 +18,7 @@ main:
     url: /service/
     
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   #- title: "Talks"
   #  url: /talks/    
