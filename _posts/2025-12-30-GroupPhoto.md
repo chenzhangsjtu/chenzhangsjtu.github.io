@@ -1,6 +1,6 @@
 ---
 title: '2023-2026年活动手帐'
-date: 2023-05-01
+date: 2026-12-30
 excerpt: "Play Hard, Work Smart！活动流水账！<br/><img src='/images/aluminum/cover.PNG'>"
 permalink: /posts/2023-2026/
 tags:
