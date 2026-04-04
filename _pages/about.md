@@ -25,9 +25,8 @@ He has published about 40 papers in top-tier conferences and journals, including
 
 
 ## News
-- *2026 Mar.* 3x ISCA Paper get accepted!
+- *2026 Mar.* 3x ISCA, 2x DAC and 1x CVPR Paper get accepted!
 - *2026 Mar.* ASPLOS'2026 paper have been nominated as <code style="color : orangered">Best Paper Candidates</code>!
-- *2026 Feb.* 2x DAC and 1x CVPR Paper get accepted!
 - *2025 Nov.* 2x HPCA and 1x ASPLOS Paper get accepted!
 - *2025 Nov.* ICCAD'2016 paper wins <code style="color : orangered">Ten-Year Retrospective Most Influential Paper Award</code>!
 - *2025 Oct.* 祝贺同学们荣获“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛<code style="color : orangered">特等奖</code>!【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
