@@ -77,7 +77,7 @@ author_profile: true
 
 ### C31. FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive operators via Inter-Core Connection
 * Ziyu Huang , Yangjie Zhou, Zihan Liu , Xinhao Luo , Yijia Diao , Minyi Guo, Jidong Zhai, Yu Feng*, Chen Zhang, Anbang Wu, and Jingwen Leng*
-* Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)
+* Proceedings of the 32nd International Symposium on High Performance Computer Architecture (HPCA 2026)【[PDF](https://arxiv.org/abs/2512.12949)】
 
 ### C30. H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference
 * Cong Li, Yihan Yin, Xintong Wu, Jingchen Zhu, Dimin Niu, Qiang Wu, Xin Si, Yuan Xie, **Chen Zhang\***, Guangyu Sun\*
