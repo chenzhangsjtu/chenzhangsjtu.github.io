@@ -43,6 +43,11 @@ He has published about 40 papers in top-tier conferences and journals, including
 - Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD 2018** (<code style="color : orangered">AI架构设计建模方法</code>, <code style="color : orangered">十年回顾最佳论文</code>)
 - Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA 2015**  (<code style="color : orangered">CNN加速器设计建模</code>, <code style="color : orangered">十年回顾最佳论文</code>)
 
+## Highly-Recommended Resources
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [GPU体系结构基础](https://www.bilibili.com/video/BV1nmDaYZEq3/?vd_source=2ccd361bd593d0cb77f51e07dcd6300f)
+- [CUDA入门课程](https://www.bilibili.com/video/BV1rmDaYZEdr?vd_source=2ccd361bd593d0cb77f51e07dcd6300f&spm_id_from=333.788.videopod.sections)
+
 
 ## Academic Awards
 - ICCAD Ten-Year Retrospective Most Influential Paper Award，2025【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
