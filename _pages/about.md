@@ -32,7 +32,7 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 - *2025 Nov.* ICCAD'2016 paper wins <code style="color : orangered">Ten-Year Retrospective Most Influential Paper Award</code>!
 - *2025 Oct.* 祝贺同学们荣获“挑战杯”中国青年科技创新“揭榜挂帅”擂台赛<code style="color : orangered">特等奖</code>!【[Details](https://mp.weixin.qq.com/s/SQKxtXRo0639CYQ8-sh8iw)】
 - *2025 June* ISCA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!
-- *2025 May.* ISEDA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
+- *2025 May.* ISEDA'2025 paper wins <code style="color : orangered">Best Paper Award</code>!
 - *2025 Mar.* FPGA'2015 paper is inducted into the Class of 2025 FPGA and Reconfigurable Computing <code style="color : orangered">Hall of Fame</code>！【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[SIC News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[SJTU News](https://mp.weixin.qq.com/s/vpba44-PizkJ_xq2F9I0Uw)，[SJTU News](https://news.sjtu.edu.cn/jdyw/20250305/207749.html)】
 - *2019 Jan.* T-CAD'2018 paper has win <code style="color : orangered">Donald O. Pederson Best Paper</code>! 【[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】
 
@@ -48,7 +48,7 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 ## Academic Awards
 - ICCAD Ten-Year Retrospective Most Influential Paper Award，2025【[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-wins-10-year-most-influential-paper-award-at-iccad-2025/), [SJTU News](https://news.sjtu.edu.cn/jdzh/20251028/215864.html)】
 - FPGA and Reconfigurable Computing Hall of Fame，2025【[SJTU News](https://mp.weixin.qq.com/s/ZKNA4BI9bxbInRNhaJVlLg)，[UCLA News](https://www.cs.ucla.edu/professor-jason-cong-and-co-authors-inducted-into-the-class-of-2025-fpga-and-reconfigurable-computing-hall-of-fame/)，[TCFPGA Web](https://tcfpga.org/books/hall-of-fame/page/hall-of-fame-inductees)】<!-- Since 2017, the award has been selected by a vote of the TCFPGA committee, and this is the first time it has been awarded to a scholar from the Asia-Pacific region. -->
-- ISCA Best Paper Award，2025【[PKU News](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
+- ISCA Best Paper Award，2025【[Details](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm)】
 - ISEDA Best Paper Award，2025【[Details](https://mp.weixin.qq.com/s/hbeWcrVhF9V7ioWSrNAvWQ)】
 - MICRO Top Picks Honorable Mention，2022 <!--（MICRO 年度最佳论文优胜奖）-->
 - Donald O. Pederson Best Paper，2019【[IEEE News](https://ieee-ceda.org/awards/donald-o-pederson-award#recipients)，[UCLA News](https://www.cs.ucla.edu/2019-donald-o-pederson-best-paper-award/)，[PKU News](https://cs.pku.edu.cn/info/1263/2440.htm)】<!-- Since 1999, the recipients have been selected through voting by the IEEE CEDA committee. This marks the first time that a Chinese scholars has received the award. -->
