@@ -56,8 +56,8 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 <!---FPGA会议历史高被引论文第一名-->
 
 ## National/Social Honors
-- 科技成果奖·自然科学一等奖（排名第三），2025，中国计算机学会（CCF）【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
-- 科学研究优秀成果奖·自然科学二等奖（排名第四），2025，教育部
+- 中国计算机学会（CCF）科技成果奖·自然科学一等奖（排三），2025【[Details](https://mp.weixin.qq.com/s/E_mKk9NPjM9IHYafRUqpHA)】
+- 教育部科学研究优秀成果奖·自然科学二等奖（排四），2025
 
 ## Personal Honors
 - 上海市“启源”青年学者，2025，上海市国资委【[News](https://news.sjtu.edu.cn/jdyw/20251219/218242.html)】【[Details](https://www.gzw.sh.gov.cn/shgzw_xwzx_gzyw/20251218/67d7081ff577474181cf1dce9a780155.html)】
