@@ -41,10 +41,12 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 - MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems, **ISCA 2026**
 - Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems, **HPCA 2026** 
 - H^2-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference, **ISCA 2025** <code style="color : orangered">最佳论文奖</code>
+
 ### 2. 低比特与稀疏AI计算加速
 - M^2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization, **ASPLOS 2026**<code style="color : orangered">最佳论文提名</code>
 - Dual-side Sparse Tensor Core, **ISCA 2021**
 - Balanced Sparsity for Efficient Dnn Inference on GPU, **AAAI 2019**<code style="color : orangered">NV Sparse TensorCore采用</code>
+
 ### 3. 体系结构建模、仿真与设计自动化
 - DATIS: DRAM Architecture and Technology Integrated Simulation, **ISEDA 2025** <code style="color : orangered">最佳论文奖</code>
 - Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD 2018** <code style="color : orangered">Donald O. Pederson最佳论文</code>
