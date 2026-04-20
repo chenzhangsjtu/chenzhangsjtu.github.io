@@ -49,8 +49,8 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 
 ### 3. 体系结构建模、仿真与设计自动化
 - DATIS: DRAM Architecture and Technology Integrated Simulation, **ISEDA 2025** <code style="color : orangered">最佳论文奖</code>
-- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD 2018** <code style="color : orangered">Donald O. Pederson最佳论文</code>
-- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA 2015**  <code style="color : orangered">十年回顾最具影响力论文</code>
+- Caffeine: Toward uniformed representation and acceleration for deep convolutional neural networks, **T-CAD 2018** <code style="color : orangered">Donald O. Pederson最佳论文奖</code><code style="color : orangered">十年回顾最具影响力论文奖</code>
+- Optimizing FPGA-based accelerator design for deep convolutional neural networks, **FPGA 2015**  <code style="color : orangered">FPGA与可重构计算名人堂</code>
 
 
 ## Academic Awards
