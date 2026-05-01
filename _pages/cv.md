@@ -13,6 +13,7 @@ redirect_from:
 
 >[2012~2017] **Ph.D / 博士, Peking University / 北京大学**
 >  * Computer System and Architecture
+
 <!-- 
 >  * Supervisor 1: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong) (Distinguished Visiting Professor until 2020)
 >  * Supervisor 2: [Prof. Guangyu Sun](https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm)
@@ -21,6 +22,7 @@ redirect_from:
 
 >[2015~2016] **Visiting Scholar / 访问学者, University of California, Los Angeles / 加州大学洛杉矶分校**
 >  * Computer Science
+
 <!-- 
 >  * Supervisor: [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)
 >    * National Academy of Engineering, National Academy of Inventors, IEEE/ACM Fellow
@@ -38,11 +40,13 @@ redirect_from:
 
 >[2021~2023] **Alibaba T-head / 阿里巴巴平头哥**, Parallel Computing Department
 >  * Chip Architect (P8)
+
 <!-- >  * Duties: GPGPU Micro-architecture, Direct Chip Connection, AI Acceleration
 >  * Team Leader: Dr. Yuan Xie (VP Alibaba, IEEE/ACM/AAAS Fellow)-->
 
 >[2017~2021] **Microsoft Research Asia / 微软亚洲研究院**, System and Networking Research Group
 >  * Associate Researcher ~ Senior Researcher
+
 <!-- >  * Duties: AI System and Heterogenous Computing
 >  * Team Leader: Dr. Lidong Zhou (CVP Microsoft, IEEE/ACM Fellow)-->
 
