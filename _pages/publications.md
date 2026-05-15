@@ -44,11 +44,11 @@ author_profile: true
 
 ### C39. MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems
 * Zhuoshan Zhou, **Chen Zhang\***, Shuyi Zhang, Qijun Zhang, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
-* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
+* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)【[PDF](https://arxiv.org/abs/2605.05888)】
 
 ### C38. Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs
 * Qijun Zhang, **Chen Zhang\***, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
-* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)
+* Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)【[PDF](https://arxiv.org/abs/2605.05607)】
 
 ### C37. Optimizing 3D Gaussian Splatting with Axis-Shared Rasterization and Order-independent Transmittance
 * Zhican Wang, Guanghui He*, Lingjun Gao, Dantong Liu, Shell Xu Hu, Chen Zhang, Zhuoran Song, Nicholas Lane, Hongxiang Fan
