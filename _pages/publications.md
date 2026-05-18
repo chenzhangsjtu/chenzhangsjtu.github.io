@@ -71,7 +71,7 @@ author_profile: true
 
 ### C33. SpRDA: An Efficient Sparse Accelerator for Robotics Diffusion Model
 * Renda Jian, Yuzhou Chen, Pan Zhao, Yitian Chen, Zhican Wang, Xueling Wang, Chen Zhang and Guanghui He*
-* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-DAC-SpRDA.pdf)】
+* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-DAC-SpRDA.pdf)】【[PPT](https://chenzhangsjtu.github.io//files/2026-DAC-SpRDA.pptx)】
 
 ### C32. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
