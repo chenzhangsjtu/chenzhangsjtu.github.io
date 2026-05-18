@@ -66,7 +66,7 @@ author_profile: true
 
 ### C34. PipeGS: Unlocking 3DGS Pipeline Parallelism via Hierarchical Reuse and Dynamic Partitioning
 * Xueling Wang, Yuzhou Chen, Zhican Wang, Pan Zhao, Renda Jian, Yitian Chen, **Chen Zhang\***, Yang Hu and Guanghui He*
-* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-DAC-pipegs.pdf)】
+* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-DAC-pipegs.pdf)】【[PPT](https://chenzhangsjtu.github.io//files/2026-DAC-pipegs.pptx)】
 
 
 ### C33. SpRDA: An Efficient Sparse Accelerator for Robotics Diffusion Model
