@@ -9,9 +9,10 @@ author_profile: true
 
 ### B1. 超节点技术体系白皮书(SuperPod Technical White Paper)【[Online Version](https://deeplink-org.github.io/superpod-whitepaper/)】
 * 牵头单位：上海人工智能实验室（侯杰、张行程、王辉、乔宇）
+* 指导机构：九源智能计算系统生态联合体下一代算力架构专家委员会
 * 学术合编单位：张宸，韩昕驰、赵世振、张骏雪、刘军、郑嘉琦、袁彬航、陈凯、沈典、翟季冬、陆游游、刘古月
 * 产业合编单位：沐曦、天数智芯、曦望智能、奇异摩尔、曦智科技、阶跃星辰、阡视科技、算丰、模合、海光、华为、盛科通信、晟联科、湖畔数据科学与应用实验室、联通、中兴、壁仞
-* 指导机构：九源智能计算系统生态联合体下一代算力架构专家委员会
+
 
 ## Journal Paper
 
@@ -65,11 +66,12 @@ author_profile: true
 
 ### C34. PipeGS: Unlocking 3DGS Pipeline Parallelism via Hierarchical Reuse and Dynamic Partitioning
 * Xueling Wang, Yuzhou Chen, Zhican Wang, Pan Zhao, Renda Jian, Yitian Chen, **Chen Zhang\***, Yang Hu and Guanghui He*
-* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)
+* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-DAC-pipegs.pdf)】
+
 
 ### C33. SpRDA: An Efficient Sparse Accelerator for Robotics Diffusion Model
 * Renda Jian, Yuzhou Chen, Pan Zhao, Yitian Chen, Zhican Wang, Xueling Wang, **Chen Zhang\*** and Guanghui He*
-* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)
+* Proceedings of the 62st ACM/IEEE Design Automation Conference (DAC 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-DAC-SpRDA.pdf)】
 
 ### C32. Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems
 * **Chen Zhang**, Qijun Zhang\*, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng\*, Minyi Guo
