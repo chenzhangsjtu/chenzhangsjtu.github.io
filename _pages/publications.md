@@ -18,7 +18,7 @@ author_profile: true
 
 ### T6. DRAM-Compatible Deterministic B2S Conversion Using Time-Weighted Comparison and DRAM-Resident Templates
 * Shiyu Xia, **Chen Zhang\***, Mingzhao Yang, Hao Meng, Mingyuan Liu\*, Zhigang Ji\*
-* IEEE Transactions on Circuits and Systems I【[PDF](https://chenzhangsjtu.github.io//files/2026-TCASI.pdf)】
+* IEEE Transactions on Circuits and Systems I (TCAS-I 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-TCASI.pdf)】
 
 ### T5. Theseus: Exploring Efficient Wafer-Scale Chip Design for Large Language Models
 * Jingchen Zhu, Chenhao Xue, Yiqi Chen, Zhao Wang, Chen Zhang, Yu Shen, Yifan Chen, Zekang Cheng, Yu Jiang, Tianqi Wang, Yibo Lin, Wei Hu, Bin Cui, Runsheng Wang, Yun Liang, Guangyu Sun
