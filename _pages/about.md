@@ -23,7 +23,7 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 
 
 ## Highly-Recommended Resources
-- [计算机体系结构与组成原理](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1) or [一生一芯](https://space.bilibili.com/2107852263/lists/6324990)
+- [计算机体系结构与组成原理(1)](https://space.bilibili.com/2107852263/lists/6324990)，[计算机组成原理(2)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1) 
 - [操作系统](https://jyywiki.cn/OS/2026/)
 - [GPU体系结构基础](https://www.bilibili.com/video/BV1nmDaYZEq3/?vd_source=2ccd361bd593d0cb77f51e07dcd6300f)
 - [CUDA入门课程](https://www.bilibili.com/video/BV1rmDaYZEdr?vd_source=2ccd361bd593d0cb77f51e07dcd6300f&spm_id_from=333.788.videopod.sections)
