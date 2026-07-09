@@ -47,6 +47,10 @@ author_profile: true
 
 ## Conference Paper
 
+### C40. BitFly: A Low-Bit Mixed-Precision Acceleration Framework for Edge RISC-V Vector Processors
+* Zixuan Zeng, Chen Zhang, Zhe Liu, and Peng Li
+* International Symposium on Advanced Parallel Processing Technolog（APPT 2026）
+
 ### C39. MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems
 * Zhuoshan Zhou, **Chen Zhang\***, Shuyi Zhang, Qijun Zhang, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
 * Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)【[PDF](https://arxiv.org/abs/2605.05888)】
