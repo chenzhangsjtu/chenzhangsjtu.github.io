@@ -86,7 +86,8 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 - 第九届全国大学生集成电路创新创业大赛，二等奖，2025，工信部
 
 ## Community Service Awards
-- ICCAD Best Reviewer Award 最佳审稿人奖，2025，ICCAD Committee
+- ICCAD Best Reviewer Award 最佳审稿人奖，2025
+- GLSVLSI Service Recognition Award 杰出服务奖，2026
 
 
 <!---
