@@ -31,6 +31,7 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 
 
 ## News
+- *2026 July.* 3x MICRO, 1x ICCAD Paper get accepted!
 - *2026 Mar.* 3x ISCA, 2x DAC and 1x CVPR Paper get accepted!
 - *2026 Mar.* ASPLOS'2026 paper have been nominated as <code style="color : orangered">Best Paper Candidates</code>!
 - *2025 Nov.* 2x HPCA and 1x ASPLOS Paper get accepted!

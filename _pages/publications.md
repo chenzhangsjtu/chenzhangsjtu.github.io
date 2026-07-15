@@ -27,12 +27,10 @@ author_profile: true
 ### T4. DSTC: Dual-Side Sparsity Tensor Core for DNNs Acceleration on Modern GPU Architectures
 *  **Chen Zhang**, Yang Wang, Zhiqiang Xie, Cong Guo, Yunxin Liu, Jingwen Leng, Guangyu Sun, Zhigang Ji, Runsheng Wang, Yuan Xie, Ru Huang
 * IEEE Transactions on Computers (TC 2025) 【[PDF](https://chenzhangsjtu.github.io//files/2025-TC-DSTC.pdf)】
-* Keyword: CNN, LSTM, LLM, GPU, Sparse Computing
 
 ### T3. Fine-Grained Structured Sparse Computing for FPGA-Based AI Inference
 *  **Chen Zhang**, Shijie Cao, Guohao Dai, Chenbo Geng, Zhuliang Yao, Wencong Xiao, Yunxin Liu, Ming Wu, Lintao Zhang, Guangyu Sun, Zhigang Ji, Runsheng Wang, Ru Huang
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2025) 【[PDF](https://chenzhangsjtu.github.io//files/2025-TCAD-FSS.pdf)】
-* Keyword: CNN, LSTM, LLM, FPGA, Fine-Grained Structured Sparse Computing
 
 ### T2. TSCompiler: Efficient Compilation Framework for Dynamic-shape Models
 * Xiang Luo, **Chen Zhang\***, Chenbo Geng, Yanzhi Yi, Jiahui Hu, Renwei Zhang, Zhen Zhang, Gianpietro Consolaro, Fan Yang, Tun Lu, Ning Gu, Li Shang\*
@@ -42,10 +40,25 @@ author_profile: true
 *  **Chen Zhang**, Guangyu Sun, Zhenman Fang, Peipei Zhou, Peichen Pan, Jason Cong
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (T-CAD 2018) 【[PDF](https://chenzhangsjtu.github.io//files/TCAD-2018.pdf)】
 * Award: <code style="color : orangered">2017~2019 Donald O. Pederson Best Paper Award</code>
-* Keyword: Convolutional Neural Network, FPGA, Design Automation, Caffe, SDAccel
 
 
 ## Conference Paper
+
+### C44. DARA: A Data-Aware Refreshing Architecture for HBM Power Reduction in LLM Accelerators
+* Jiajie Fan, Lebei Cui, Anmin Liu, Xinyao Wang, Zhutianya Gao, **Chen Zhang\***
+* Proceedings of the 45th International Conference on Computer-Aided Design (ICCAD 2026)
+
+### C43. FlashGPU-sim: Enabling GPU Modeling for Modern Architectures and AI Workloads
+* Siying Yu, Yixun Hong, Guozhi Qiu, Feng Gu, Chenbo Geng, Zhengrong Wang, Chen Zhang, Bei Yu
+* Proceedings of the 59th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)
+
+### C42. DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction
+* Chi Zhang, Jieru Zhao, Yu Feng, Chen Zhang, Quan Chen, Minyi Guo
+* Proceedings of the 59th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)
+
+### C41. Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs
+* Qijun Zhang, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, Mengming Li, Guangyu Sun, Cheng Zhang, Zhe Zhou, Zhiyao Xie
+* Proceedings of the 59th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)
 
 ### C40. BitFly: A Low-Bit Mixed-Precision Acceleration Framework for Edge RISC-V Vector Processors
 * Zixuan Zeng, Chen Zhang, Zhe Liu, and Peng Li
