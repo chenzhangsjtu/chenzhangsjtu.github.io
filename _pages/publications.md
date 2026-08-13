@@ -46,7 +46,7 @@ author_profile: true
 
 ### C44. DARA: A Data-Aware Refreshing Architecture for HBM Power Reduction in LLM Accelerators
 * Jiajie Fan, Lebei Cui, Anmin Liu, Xinyao Wang, Zhutianya Gao, **Chen Zhang\***
-* Proceedings of the 45th International Conference on Computer-Aided Design (ICCAD 2026)
+* Proceedings of the 45th International Conference on Computer-Aided Design (ICCAD 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-ICCAD.pdf)】
 
 ### C43. FlashGPU-sim: Enabling GPU Modeling for Modern Architectures and AI Workloads
 * Siying Yu, Yixun Hong, Guozhi Qiu, Feng Gu, Chenbo Geng, Zhengrong Wang, Chen Zhang, Bei Yu
@@ -68,7 +68,7 @@ author_profile: true
 * Zhuoshan Zhou, **Chen Zhang\***, Shuyi Zhang, Qijun Zhang, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
 * Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)【[PDF](https://arxiv.org/abs/2605.05888)】
 
-### C38. Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs
+### C38. Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs
 * Qijun Zhang, **Chen Zhang\***, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo
 * Proceedings of the 53th Annual International Symposium on Computer Architecture (ISCA 2026)【[PDF](https://arxiv.org/abs/2605.05607)】
 
