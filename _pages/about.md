@@ -30,10 +30,10 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 - [GPU体系结构基础](https://github.com/ForceInjection/AI-fundamentals/blob/main/01_hardware_architecture/nvidia/README.md)
 - [CUDA入门](https://github.com/QINZHAOYU/CudaSteps)
 
-> 1. 入门，计算机组成原理(1) + 操作系统
-> 2. 新手村，GPU体系结构基础 + CUDA入门
-> 3. 高手进阶，计算机组成原理(2)
-> 4. 去商会买把趁手的兵器，The Missing Semester of Your CS Education
+> 1. 入门：计算机组成原理(1)、操作系统
+> 2. 新手村：GPU体系结构基础、CUDA入门
+> 3. 高手辅修：计算机组成原理(2)
+> 4. 去商会买把趁手的兵器：The Missing Semester of Your CS Education
 
 ## News
 - *2026 July.* 3x MICRO, 1x ICCAD Paper get accepted!
