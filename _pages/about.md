@@ -23,10 +23,10 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 
 
 ## Highly-Recommended Resources
-- 入门：[计算机组成原理(1)](https://space.bilibili.com/2107852263/lists/6324990)（重点：4～9）、[操作系统](https://jyywiki.cn/OS/2026/)（重点：1～11）
-- 新手村：[GPU体系结构基础](https://github.com/ForceInjection/AI-fundamentals/blob/main/01_hardware_architecture/nvidia)、[CUDA入门](https://github.com/QINZHAOYU/CudaSteps)
+- 新手必备：[计算机组成原理(1)](https://space.bilibili.com/2107852263/lists/6324990)（重点：4～9）、[操作系统](https://jyywiki.cn/OS/2026/)（重点：1～11）
+- 核心技能：[GPU体系结构基础](https://github.com/ForceInjection/AI-fundamentals/blob/main/01_hardware_architecture/nvidia)、[CUDA入门](https://github.com/QINZHAOYU/CudaSteps)
 - 高手辅修：[计算机组成原理(2)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1)
-- 去商会买把趁手的兵器：[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- 搞点趁手的兵器：[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## News
 - *2026 July.* 3x MICRO, 1x ICCAD Paper get accepted!
