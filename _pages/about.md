@@ -24,11 +24,19 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 
 ## Highly-Recommended Resources
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [计算机组成原理(1)](https://space.bilibili.com/2107852263/lists/6324990), [计算机组成原理(2)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1) 
+- [计算机组成原理(1)](https://space.bilibili.com/2107852263/lists/6324990)（重点视频：4～9）
+- [计算机组成原理(2)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1) 
 - [操作系统](https://jyywiki.cn/OS/2026/)
-- [CUDA入门课程](https://www.bilibili.com/video/BV1rmDaYZEdr?vd_source=2ccd361bd593d0cb77f51e07dcd6300f&spm_id_from=333.788.videopod.sections)
-- [GPU体系结构基础](https://www.bilibili.com/video/BV1nmDaYZEq3/?vd_source=2ccd361bd593d0cb77f51e07dcd6300f)
+- [GPU体系结构基础](https://github.com/ForceInjection/AI-fundamentals/blob/main/01_hardware_architecture/nvidia/README.md)
+- [CUDA入门](https://github.com/QINZHAOYU/CudaSteps)
 
+> 若你尚未学习计算机体系结构基础，请优先学习“计算机组成原理(1)”和“操作系统”两门课程；
+> 
+> 若你已经具备体系结构基础知识，请开始学习“GPU体系结构基础”和“CUDA入门”；
+> 
+> 若你发现很多计算机的工具不太会使用，请学习“The Missing Semester of Your CS Education”
+>
+> 若你已经具备相当编程和架构设计经验，可以开始准备成为一个高手，请学习“计算机组成原理(2)”
 
 ## News
 - *2026 July.* 3x MICRO, 1x ICCAD Paper get accepted!
