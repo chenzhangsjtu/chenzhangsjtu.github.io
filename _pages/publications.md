@@ -58,7 +58,7 @@ author_profile: true
 
 ### C41. Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs
 * Qijun Zhang, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, Mengming Li, Guangyu Sun, Cheng Zhang, Zhe Zhou, Zhiyao Xie
-* Proceedings of the 59th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)
+* Proceedings of the 59th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-MICRO-HALO.pdf)】
 
 ### C40. BitFly: A Low-Bit Mixed-Precision Acceleration Framework for Edge RISC-V Vector Processors
 * Zixuan Zeng, Chen Zhang, Zhe Liu, and Peng Li
