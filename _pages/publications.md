@@ -61,7 +61,7 @@ author_profile: true
 * Proceedings of the 59th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)【[PDF](https://chenzhangsjtu.github.io//files/2026-MICRO-HALO.pdf)】
 
 ### C40. BitFly: A Low-Bit Mixed-Precision Acceleration Framework for Edge RISC-V Vector Processors
-* Zixuan Zeng, Chen Zhang, Zhe Liu, and Peng Li
+* Zixuan Zeng, **Chen Zhang\***, Zhe Liu, and **Peng Li\***
 * International Symposium on Advanced Parallel Processing Technolog（APPT 2026）【[PDF](https://chenzhangsjtu.github.io//files/2026-APPT.pdf)】
 
 ### C39. MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems
