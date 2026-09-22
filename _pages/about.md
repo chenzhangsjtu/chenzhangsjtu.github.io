@@ -24,8 +24,9 @@ Chen Zhang is now a Tenure-Track Assistant Professor and Ph.D. advisor at the Sc
 
 ## Highly-Recommended Resources
 - 新手必备：[计算机组成原理(1)](https://space.bilibili.com/2107852263/lists/6324990)（重点：4～9）、[操作系统](https://jyywiki.cn/OS/2026/)（重点：1～11）
-- 核心技能：[GPU体系结构基础](https://github.com/ForceInjection/AI-fundamentals/blob/main/01_hardware_architecture/nvidia)、[CUDA入门](https://github.com/gau-nernst/learn-cuda)、[CUDA进阶](https://github.com/QINZHAOYU/CudaSteps)
-- 高手辅修：[计算机组成原理(2)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1)
+- 专业入门：[CUDA入门1](https://siboehm.com/articles/22/CUDA-MMM)、[CUDA入门2](https://github.com/gau-nernst/learn-cuda)、
+- 核心知识：[GPU体系结构基础](https://github.com/ForceInjection/AI-fundamentals/blob/main/01_hardware_architecture/nvidia)、[CUDA进阶](https://github.com/QINZHAOYU/CudaSteps)
+- 高手进阶：[计算机组成原理(2)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5PHm2jkkXmhs4EACiFKvTPAQkdYMZKGu&index=1)
 - 搞点趁手的兵器：[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## News
