@@ -35,6 +35,8 @@ Academic Party
 
 Academic Activities
 ======
+- *Otc 2026*    HPC China 2026，【[面向先进计算范式的科学计算论坛](https://ccf.org.cn/hpcchina2026/schedule_d_4047)】【[超节点互联系统论坛——开放解构超节点](https://ccf.org.cn/hpcchina2026/schedule_d_4007)】
+- *Otc 2026*    晶圆级芯片前沿进展，第四届集成芯片与芯粒大会【[link](https://mp.weixin.qq.com/s/Iq5gv2RYyAZmNu8zhVVpLg)】
 - *Otc 2026*    人工智能驱动的科学研究范式跃迁，浦江国家实验室【[link](https://mp.weixin.qq.com/s/A7osJoxVbGkskW4J8hQfqA)】
 - *Sep 2026*    【[AI芯片架构创新技术](https://mp.weixin.qq.com/s/xIy0i-ZOK7StcMrRbkZYfw)】，【[AI芯片峰会](https://mp.weixin.qq.com/s/g4Y67R62OBzu9z_dpvQ6DQ)】
 - *Sep 2026*    下一代物理智能前沿论坛，PAIR 2026【[link](https://mp.weixin.qq.com/s/6_DZCnhpc5BXO5Qf8BGYGg)】
